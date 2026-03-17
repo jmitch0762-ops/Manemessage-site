@@ -70,9 +70,9 @@ export default function HomePage() {
       {/* ============ VALUE PROPS ============ */}
       <section className="py-20 md:py-28">
         <div className="max-w-[1500px] mx-auto px-[4vw]">
-          <div className="section-label">Why ManeMessage</div>
+          <div className="section-label">Why Mane Message</div>
           <h2 className="section-title">
-            Fluency in the equine industry comes from experience.
+            Experience creates fluency.
           </h2>
           <p className="section-intro">
             Generic content won&apos;t cut it when your clients expect real insight. I
