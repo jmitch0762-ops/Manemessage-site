@@ -149,8 +149,8 @@ export const testimonials = [
     author: "Bobbie Abdallah",
     role: "Cold Noses News: Content & Marketing Simplified for Busy Dog Pros",
     isPlaceholder: false,
-  },
-  {
+   }
+];
 // ============================================================
 // PORTFOLIO ITEMS
 // ============================================================
