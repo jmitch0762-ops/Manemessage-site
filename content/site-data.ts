@@ -27,8 +27,8 @@ export const siteConfig = {
 export const hero = {
   badge: "Equine & Pet Industry Specialist",
   headline: "Digital Marketing & Copywriting",
-  headlineAccent: "For Equine and Pet Businesses",
-  subtext: `I combine hands-on industry knowledge with digital marketing strategy to create website content that speaks your clients’ language, builds trust, and drives results.`,
+  headlineAccent: "That connects, converts, and grows your business",
+  subtext: `Combining hands-on industry knowledge with digital marketing strategy to create website content that speaks your clients’ language, builds trust, and drives results.`,
   ctaPrimary: "Free Discovery Call",
   ctaSecondary: "View Services",
 };
