@@ -196,23 +196,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ============ LIFESTYLE IMAGE BREAK ============ */}
-      <section className="relative h-[50vh] min-h-[350px] overflow-hidden">
-        <Image
-          src="/images/jen-therese.jpg"
-          alt="Jen Mitchell horseback riding with a friend"
-          fill
-          className="object-cover object-center"
-          quality={85}
-        />
-        <div className="absolute inset-0 bg-gradient-to-t from-bark-800/70 via-transparent to-transparent" />
-        <div className="absolute bottom-8 left-0 right-0 text-center z-10">
-          <p className="text-white/80 font-body text-sm italic tracking-wide">
-            Because the best marketing comes from someone who lives this life, too.
-          </p>
-        </div>
-      </section>
-
       {/* ============ CTA ============ */}
       <CTABanner
         headline="Ready to Get Your Mane Message Out?"
