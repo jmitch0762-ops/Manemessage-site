@@ -72,7 +72,7 @@ export default function HomePage() {
         <div className="max-w-[1500px] mx-auto px-[4vw]">
           <div className="section-label">Why ManeMessage</div>
           <h2 className="section-title">
-            You can&apos;t fake fluency in the equine industry.
+            Fluency in the equine industry comes from experience.
           </h2>
           <p className="section-intro">
             Generic content won&apos;t cut it when your clients expect real insight. I
