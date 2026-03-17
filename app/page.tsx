@@ -75,9 +75,8 @@ export default function HomePage() {
             Experience creates fluency.
           </h2>
           <p className="section-intro">
-            Generic content won&apos;t cut it when your clients expect real insight. I
-            combine hands-on industry knowledge with copywriting expertise to turn
-            your authority into words your audience trusts.
+            Writing for equine and pet businesses requires more than good writing—it requires understanding the work itself. From hands-on care to more technical fields like veterinary services, 
+            I create content that reflects your expertise, reads clearly, and builds trust with your clients.
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
