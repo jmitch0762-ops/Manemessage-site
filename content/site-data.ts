@@ -18,7 +18,7 @@ export const siteConfig = {
   phone: "508-873-4616",
   calendlyUrl: "https://calendly.com/jmitch0762/30min",
   mediumUrl: "https://medium.com/@jenmitch_762",
-  linkedinUrl: "#", // Add your LinkedIn URL here
+  linkedinUrl: "https://www.linkedin.com/in/jmitchelldoe/", // Add your LinkedIn URL here
 };
 
 // ============================================================
