@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
-import { hero, values, credentials, testimonials, blogPosts, siteConfig } from "@/content/site-data";
+import { hero, values, credentials, testimonials, siteConfig } from "@/content/site-data";
+import { blogPostsFull } from "@/content/blog-posts";
 import CTABanner from "@/components/CTABanner";
 
 export default function HomePage() {
@@ -163,12 +164,10 @@ export default function HomePage() {
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {blogPosts.slice(0, 3).map((post) => (
-              <a
+            {blogPostsFull.slice(0, 3).map((post) => (
+              <Link
                 key={post.slug}
-                href={post.externalUrl}
-                target="_blank"
-                rel="noopener noreferrer"
+                href={`/blog/${post.slug}`}
                 className="group block bg-white border border-bark-100 rounded-sm overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
               >
                 <div className="aspect-video bg-gradient-to-br from-cream-200 to-saddle-500/10 flex items-center justify-center text-saddle-400 text-xs font-medium uppercase tracking-widest">
@@ -185,7 +184,7 @@ export default function HomePage() {
                     {post.excerpt}
                   </p>
                 </div>
-              </a>
+              </Link>
             ))}
           </div>
 
