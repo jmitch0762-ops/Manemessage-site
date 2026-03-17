@@ -137,26 +137,27 @@ export const processSteps = [
 
 // ============================================================
 // TESTIMONIALS
-// Add real testimonials here as you collect them!
 // ============================================================
 export const testimonials = [
   {
-    quote: "Placeholder — Jen understood our breeding program better than any marketer we've worked with. The blog content she wrote brought in qualified leads within the first month.",
-    author: "Client Name",
-    role: "Breeding Farm, Location",
-    isPlaceholder: true,
+    export const testimonials = [
+  {
+    quote: "I had the pleasure of meeting Jen through a mutual connection, and I\\u2019m so glad I did. Jen is an absolute wordsmith \\u2014 her writing is thoughtful, flows beautifully, and truly brings heart into every message. She has a special talent for helping small business owners find the right words to connect with their audience, especially in the equine and pet industries, but her expertise easily applies far beyond that. On top of her skill, she\\u2019s warm, personable, and so fun to talk to \\u2014 every conversation leaves me inspired. Highly recommend connecting with her!",
+    author: "Kelly Goulet",
+    role: "Night Owl Notions",
+    isPlaceholder: false,
   },
   {
-    quote: "Placeholder — Our website copy finally sounds like us. Jen captured the voice of our barn perfectly, and the SEO improvements have been noticeable.",
-    author: "Client Name",
-    role: "Boarding & Training Facility",
-    isPlaceholder: true,
+    quote: "Jen is an incredible, professional copywriter! After struggling to write my own effective web copy, I reached out to Jen for her expert help. She took the time to understand my business, my goals and even my personality to craft the perfect copy and message! Stop struggling on your own and reach out to Jen for her expertise! Only wish I had done it sooner!",
+    author: "Bobbie Abdallah",
+    role: "Cold Noses News: Content & Marketing Simplified for Busy Dog Pros",
+    isPlaceholder: false,
   },
   {
-    quote: "Placeholder — I was spending hours every week trying to write newsletters. Jen took that completely off my plate and the quality improved dramatically.",
-    author: "Client Name",
-    role: "Equine Veterinary Practice",
-    isPlaceholder: true,
+    quote: "Wonderful chatting with you today, Jen! Impressive professionalism!",
+    author: "Ruth Aldana-Ricketts",
+    role: "2024 & 2025 Local Business of the Year",
+    isPlaceholder: false,
   },
 ];
 
