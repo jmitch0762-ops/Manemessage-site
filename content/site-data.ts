@@ -28,7 +28,7 @@ export const hero = {
   badge: "Equine & Pet Industry Specialist",
   headline: "Digital Marketing & Copywriting Services",
   headlineAccent: "For Equine and Pet Industry Professionals",
-  subtext: `Clear messaging. Authentic voice. Content that connects with your audience.,
+  subtext: `Clear messaging. Authentic voice. Content that connects with your audience.`,
   ctaPrimary: "Free Discovery Call",
   ctaSecondary: "View Services",
 };
