@@ -140,8 +140,6 @@ export const processSteps = [
 // ============================================================
 export const testimonials = [
   {
-    export const testimonials = [
-  {
     quote: "I had the pleasure of meeting Jen through a mutual connection, and I\\u2019m so glad I did. Jen is an absolute wordsmith \\u2014 her writing is thoughtful, flows beautifully, and truly brings heart into every message. She has a special talent for helping small business owners find the right words to connect with their audience, especially in the equine and pet industries, but her expertise easily applies far beyond that. On top of her skill, she\\u2019s warm, personable, and so fun to talk to \\u2014 every conversation leaves me inspired. Highly recommend connecting with her!",
     author: "Kelly Goulet",
     role: "Night Owl Notions",
