@@ -139,7 +139,7 @@ export const processSteps = [
 // ============================================================
 export const testimonials = [
   {
-    quote: "I had the pleasure of meeting Jen through a mutual connection, and I\\u2019m so glad I did. Jen is an absolute wordsmith \\u2014 her writing is thoughtful, flows beautifully, and truly brings heart into every message. She has a special talent for helping small business owners find the right words to connect with their audience, especially in the equine and pet industries, but her expertise easily applies far beyond that. On top of her skill, she\\u2019s warm, personable, and so fun to talk to \\u2014 every conversation leaves me inspired. Highly recommend connecting with her!",
+    quote: "I had the pleasure of meeting Jen through a mutual connection, and I'm so glad I did. Jen is an absolute wordsmith; her writing is thoughtful, flows beautifully, and truly brings heart into every message. She has a special talent for helping small business owners find the right words to connect with their audience, especially in the equine and pet industries, but her expertise easily applies far beyond that. On top of her skill, she is warm, personable, and so fun to talk to. Every conversation leaves me inspired. Highly recommend connecting with her!",
     author: "Kelly Goulet",
     role: "Night Owl Notions",
     isPlaceholder: false,
@@ -151,13 +151,7 @@ export const testimonials = [
     isPlaceholder: false,
   },
   {
-    quote: "Wonderful chatting with you today, Jen! Impressive professionalism!",
-    author: "Ruth Aldana-Ricketts",
-    role: "2024 & 2025 Local Business of the Year",
-    isPlaceholder: false,
-  },
-];
-
+    
 // ============================================================
 // PORTFOLIO ITEMS
 // ============================================================
