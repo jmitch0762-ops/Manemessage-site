@@ -79,4 +79,73 @@
     color: #A9A39C;
     font-size: 1.05rem;
   }
+
+  /* Blog post prose styling */
+  .prose-mane {
+    font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+    color: #28231D;
+    font-size: 1.05rem;
+    line-height: 1.8;
+  }
+  .prose-mane h2 {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 700;
+    color: #7A5230;
+    font-size: 1.6rem;
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.2;
+  }
+  .prose-mane h3 {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 600;
+    color: #342E27;
+    font-size: 1.25rem;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.3;
+  }
+  .prose-mane p {
+    margin-bottom: 1.25rem;
+  }
+  .prose-mane ul, .prose-mane ol {
+    margin-bottom: 1.25rem;
+    padding-left: 1.5rem;
+  }
+  .prose-mane ul {
+    list-style-type: disc;
+  }
+  .prose-mane ol {
+    list-style-type: decimal;
+  }
+  .prose-mane li {
+    margin-bottom: 0.4rem;
+    line-height: 1.7;
+  }
+  .prose-mane li ul, .prose-mane li ol {
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
+  }
+  .prose-mane strong {
+    font-weight: 600;
+    color: #1E1A16;
+  }
+  .prose-mane em {
+    font-style: italic;
+  }
+  .prose-mane a {
+    color: #7A5230;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .prose-mane a:hover {
+    color: #9E6E42;
+  }
+  .prose-mane blockquote {
+    border-left: 3px solid #DBBFA1;
+    padding-left: 1.25rem;
+    margin: 1.5rem 0;
+    color: #4A4339;
+    font-style: italic;
+  }
 }
