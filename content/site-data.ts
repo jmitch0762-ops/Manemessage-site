@@ -64,7 +64,7 @@ that's optimized for search engines and crafted to convert browsers into buyers.
 export const credentials = [
   { number: "10+", label: "Years in Digital\nMarketing" },
   { number: "4", label: "Industry Verticals\n(High-Tech to Healthcare)" },
-  { number: "∞", label: "Passion for Horses\n(Riding Since Age 7)" },
+  { number: "∞", label: "Lifelong Equestrian" },
 ];
 
 // ============================================================
