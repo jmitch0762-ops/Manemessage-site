@@ -40,14 +40,14 @@ export const values = [
   {
     icon: "✦",
     title: "Deep Industry Understanding",
-    text: `You won’t need to explain your business or your audience. I bring both digital 
-    marketing expertise and real-world familiarity with equine and pet industries—so your content reflects 
+    text: `You won\u2019t need to explain your business or your audience. I bring both digital 
+    marketing expertise and real-world familiarity with equine and pet industries, so your content reflects 
     the level of knowledge your clients expect.`,
   },
   {
     icon: "◷",
     title: "Stay Focused on Your Business",
-    text: `I take content and marketing off your plate—so your website and messaging stay current, 
+    text: `I take content and marketing off your plate so your website and messaging stay current, 
     polished, and working for you without pulling you away from what matters most.`,
   },
   {
@@ -55,12 +55,12 @@ export const values = [
     title: "Built for Visibility and Results",
     text: `Your content should do more than sound good. It should be discoverable, engaging, 
     and effective; helping the right people find you, trust you, and take action.`,
-  },
-];
-icon: "▲",
+ },
+  {
+    icon: "▲",
     title: "Structured for Clarity and Conversion",
-    text: `I don’t just write the words, I think through how your website works. From page structure 
-    to content flow, everything is designed to guide visitors, improve usability, and support your business goals.`,
+    text: `I don\u2019t just write the words, I think through how your website works. From page structure to content flow, 
+    everything is designed to guide visitors, improve usability, and support your business goals.`,
   },
 ];
   
