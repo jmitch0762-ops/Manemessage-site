@@ -99,7 +99,7 @@ export default function HomePage() {
           </div>
 
           {/* Credentials bar */}
-          <div className="flex flex-wrap gap-12 py-10 border-t border-b border-saddle-500/10 mt-12">
+          <div className="flex flex-wrap gap-12 py-10 border-t border-b border-saddle-500/10 mt-12 justify-center">
             {credentials.map((c, i) => (
               <div key={i} className="flex items-baseline gap-3">
                 <span className="font-heading text-3xl font-extrabold text-saddle-500 leading-none">
