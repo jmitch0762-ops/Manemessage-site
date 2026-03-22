@@ -221,17 +221,16 @@ export const blogPosts = [
 // ============================================================
 export const about = {
   headline: "Marketing Maven.\nEquestrian.\nYour Ideal Customer.",
-  intro: `I'm Jen Mitchell — a seasoned marketing professional with over a decade 
+  intro: `I'm Jennifer Mitchell — a seasoned marketing professional with over a decade 
 of experience leading digital programs across high-tech, insurance, healthcare, 
-and retail. Now I focus that expertise exclusively on the world I love most: 
+and retail. I've taken this expertise exclusively to the world I love most: 
 the equine and pet industry.`,
-  story: `I started riding at seven. Got my first horse — a young Thoroughbred 
-ex-racehorse — by nine. Horses taught me work ethic, empathy, patience, and the 
+  story: `I started riding early and got my first horse at 9-years old, not what one would expect...a young Thoroughbred 
+ex-racehorse. Throughout the years, horses taught me to have a strong work ethic, empathy, patience, and the 
 kind of grit that translates directly into how I approach business.`,
   whyMe: `Here's why that matters for you: I am your ideal customer. I understand 
-what potential clients seek — whether it's a pre-purchase vet exam, the perfect 
-boarding farm, or the right supplement. When I write for your business, I'm not 
-faking it. I'm translating expertise I already live.`,
+what potential clients seek, whether it's a lameness vet exam, the perfect 
+boarding farm, or the right supplement. And, I love to write. When I write for your business, I'm translating expertise I already live.`,
   quote: "Throw your heart over, and the horse will follow. This applies to most hurdles in life.",
   industries: [
     "Boarding & Training",
