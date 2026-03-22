@@ -2,10 +2,25 @@
 import { siteConfig } from "@/content/site-data";
 
 export default function ContactPage() {
-  const handleSubmit = (e: React.FormEvent) => {
+ const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // In production, connect to a form service like Formspree or Vercel's form handler
-    alert("Form submitted! (Connect to your form handler in production)");
+    const form = e.target as HTMLFormElement;
+    const data = new FormData(form);
+    try {
+      const res = await fetch("https://formspree.io/f/xlgpyjey", {
+        method: "POST",
+        body: data,
+        headers: { Accept: "application/json" },
+      });
+      if (res.ok) {
+        alert("Message sent! I will get back to you within 24 hours.");
+        form.reset();
+      } else {
+        alert("Something went wrong. Please try again or email me directly.");
+      }
+    } catch {
+      alert("Something went wrong. Please try again or email me directly.");
+    }
   };
 
   return (
