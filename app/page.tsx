@@ -169,9 +169,9 @@ export default function HomePage() {
                 href={`/blog/${post.slug}`}
                 className="group block bg-white border border-bark-100 rounded-sm overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
               >
-                <div className="aspect-video bg-gradient-to-br from-cream-200 to-saddle-500/10 flex items-center justify-center text-saddle-400 text-xs font-medium uppercase tracking-widest">
-                  Featured Image
-                </div>
+                <div className="aspect-video relative overflow-hidden">
+                    <img src={post.image} alt={post.title} className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                  </div>
                 <div className="p-6">
                   <div className="text-[0.65rem] font-semibold tracking-[0.12em] uppercase text-saddle-500 mb-2">
                     {post.tag}
