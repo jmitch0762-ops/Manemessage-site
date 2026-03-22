@@ -14,7 +14,7 @@ export default function ServicesPage() {
       <div className="h-[72px]" />
 
       {/* Services Grid */}
-      <section className="py-20 md:py-28">
+      <section className="pt-20 md:pt-28 pb-10 md:pb-14">
         <div className="max-w-[1500px] mx-auto px-[4vw]">
           <div className="section-label">Services</div>
           <h2 className="section-title">Copywriting & Marketing Services</h2>
