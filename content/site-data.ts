@@ -68,8 +68,8 @@ export const values = [
 // ============================================================
 export const credentials = [
   { number: "10+", label: "Years in Digital\nMarketing" },
-  { number: "4", label: "Industry Verticals\n(High-Tech to Healthcare)" },
-  { number: "∞", label: "Lifelong Equestrian" },
+  { number: "30+", label: "Years as an\nEquestrian" },
+  { number: "100%", label: "Human-Written\nContent" },
 ];
 
 // ============================================================
