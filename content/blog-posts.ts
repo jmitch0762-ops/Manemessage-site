@@ -10,6 +10,7 @@
 
 export interface BlogPost {
   slug: string;
+  image: string;
   tag: string;
   title: string;
   excerpt: string;
@@ -18,7 +19,6 @@ export interface BlogPost {
   metaDescription: string;
   content: string;
 }
-
 export const blogPostsFull: BlogPost[] = [
   {
     slug: "practical-guide-digital-marketing-2025",
