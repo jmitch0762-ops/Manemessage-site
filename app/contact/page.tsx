@@ -119,7 +119,6 @@ export default function ContactPage() {
               <div className="space-y-0">
                 {[
                   { label: "Email", value: siteConfig.email },
-                  { label: "Phone", value: siteConfig.phone },
                   { label: "LinkedIn", value: "Jen Mitchell" },
                 ].map((item) => (
                   <div
