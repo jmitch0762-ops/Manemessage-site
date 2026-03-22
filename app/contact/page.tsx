@@ -45,6 +45,7 @@ export default function ContactPage() {
                 </label>
                 <input
                   type="text"
+                  name="name"
                   required
                   placeholder="Your name"
                   className="w-full px-4 py-3 font-body text-sm border border-bark-200 rounded-sm bg-cream-200 text-bark-800 focus:outline-none focus:border-saddle-500 transition-colors"
@@ -56,6 +57,7 @@ export default function ContactPage() {
                 </label>
                 <input
                   type="email"
+                  name="email"
                   required
                   placeholder="your@email.com"
                   className="w-full px-4 py-3 font-body text-sm border border-bark-200 rounded-sm bg-cream-200 text-bark-800 focus:outline-none focus:border-saddle-500 transition-colors"
@@ -65,7 +67,7 @@ export default function ContactPage() {
                 <label className="block text-xs font-medium tracking-wide uppercase text-bark-600 mb-1.5">
                   Business Type
                 </label>
-                <select className="w-full px-4 py-3 font-body text-sm border border-bark-200 rounded-sm bg-cream-200 text-bark-800 focus:outline-none focus:border-saddle-500 transition-colors">
+                <select name="business_type" className="w-full px-4 py-3 font-body text-sm border border-bark-200 rounded-sm bg-cream-200 text-bark-800 focus:outline-none focus:border-saddle-500 transition-colors">
                   <option value="">Select your industry…</option>
                   <option>Boarding, Sales & Training</option>
                   <option>Breeding Farm</option>
@@ -83,6 +85,7 @@ export default function ContactPage() {
                   What do you need help with?
                 </label>
                 <textarea
+                  name="message"
                   required
                   rows={5}
                   placeholder="Tell me about your project, goals, and timeline…"
