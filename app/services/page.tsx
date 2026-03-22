@@ -46,7 +46,11 @@ export default function ServicesPage() {
           </div>
         </div>
       </section>
-
+{/* Racing Image Break */}
+      <section className="relative h-[35vh] min-h-[250px] overflow-hidden">
+        <img src="/images/racing.jpg" alt="Thoroughbred horse racing" className="absolute inset-0 w-full h-full object-cover object-center" />
+        <div className="absolute inset-0 bg-gradient-to-t from-bark-800/60 via-transparent to-transparent" />
+      </section>
       {/* Process Steps */}
       <section className="py-20 md:py-28 bg-bark-800">
         <div className="max-w-[1500px] mx-auto px-[4vw]">
