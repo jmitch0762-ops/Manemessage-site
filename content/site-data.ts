@@ -40,9 +40,8 @@ export const values = [
   {
     icon: "◈",
     title: "Deep Industry Understanding",
-    text: `You won\u2019t need to explain your business or your audience. I bring both digital 
-    marketing expertise and real-world familiarity with equine and pet industries, so your content reflects 
-    the level of knowledge your clients expect.`,
+    text: `I bring digital marketing expertise and real-world equine and pet industry knowledge 
+    so your content speaks with the authority your clients expect.`,
   },
   {
     icon: "☑",
@@ -59,8 +58,8 @@ export const values = [
   {
    icon: "⊞",
     title: "Structured for Clarity and Conversion",
-    text: `I don\u2019t just write the words, I think through how your website works. From page structure to content flow, 
-    everything is designed to guide visitors, improve usability, and support your business goals.`,
+    text: `I think beyond the words; from page structure to content flow, 
+    everything is designed to guide visitors and support your business goals.`,
   },
 ];
   
