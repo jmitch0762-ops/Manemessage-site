@@ -156,49 +156,13 @@ export const testimonials = [
 // ============================================================
 export const portfolio = [
   {
-    type: "Guide",
-    title: "A Practical Guide to Digital Marketing in 2025",
-    description: "Comprehensive guide covering SEO, content strategy, social media, and email marketing for small businesses.",
-    url: "https://medium.com/@jenmitch_762/a-practical-guide-to-digital-marketing-in-2025-for-small-businesses-464a412cea03",
-    linkText: "Read on Medium",
-  },
-  {
-    type: "Blog Post",
-    title: "No Tricks, Just Trust",
-    description: "Exploring how blogging builds credibility and drives organic leads for equine businesses.",
-    url: "https://medium.com/@jenmitch_762/no-tricks-just-trust-f9bbb2c4ef7b",
-    linkText: "Read on Medium",
-  },
-  {
-    type: "SEO Guide",
-    title: "SEO Best Practices for the Equine Professional",
-    description: "Actionable SEO strategies tailored to equine businesses looking to improve search visibility.",
-    url: "https://medium.com/@jenmitch_762/do-it-yourself-seo-best-practices-for-the-equine-professional-d439b7783049",
-    linkText: "Read on Medium",
-  },
-  {
-    type: "Equestrian Content",
-    title: "The Hunter Pace: A Trail Ride with a Mission",
-    description: "An engaging introduction to the sport of the Hunter Pace for a general equestrian audience.",
-    url: "https://medium.com/@jenmitch_762/a-trail-ride-with-a-mission-announcing-the-hunter-pace-c300c61dac88",
-    linkText: "Read on Medium",
-  },
-  {
-    type: "Equestrian Content",
-    title: "Dancing Horses: The Art of Dressage",
-    description: "Short-form content exploring the origins and appeal of dressage for a broad audience.",
-    url: "https://medium.com/@jenmitch_762/dancing-horses-lets-explore-the-art-of-dressage-c569c5271704",
-    linkText: "Read on Medium",
-  },
-  {
-    type: "Published Articles",
-    title: "The Horseman's Yankee Pedlar",
-    description: "Published print articles demonstrating industry authority and editorial writing ability.",
-    url: "https://www.manemessagemarketing.com/articles",
-    linkText: "View Articles",
+    type: "Note",
+    title: "Writing Samples",
+    description: "Visit the blog for recent writing samples covering digital marketing, SEO, content strategy, and equestrian topics.",
+    url: "/blog",
+    linkText: "View Blog Posts",
   },
 ];
-
 // ============================================================
 // BLOG POSTS
 // To add a new blog post: copy one of the objects below,
