@@ -15,7 +15,6 @@ export const siteConfig = {
   name: "ManeMessage Marketing",
   tagline: "Your NO-BS Digital Marketing Maven Turned Equine / Pet-Loving Wordsmith",
   email: "manemessagemarketing@gmail.com",
-  phone: "508-873-4616",
   calendlyUrl: "https://calendly.com/jmitch0762/30min",
   mediumUrl: "https://medium.com/@jenmitch_762",
   linkedinUrl: "https://www.linkedin.com/in/jmitchelldoe/", // Add your LinkedIn URL here
