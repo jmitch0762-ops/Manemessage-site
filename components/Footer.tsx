@@ -43,7 +43,7 @@ export default function Footer() {
         </div>
         <div className="mt-6 pt-6 border-t border-bark-100 text-center text-xs text-bark-300">
           © {new Date().getFullYear()} ManeMessage Marketing. All rights reserved. |{" "}
-          {siteConfig.email} | {siteConfig.phone}
+          {siteConfig.email}
         </div>
       </div>
     </footer>
