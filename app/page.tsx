@@ -79,7 +79,7 @@ export default function HomePage() {
             I create content that reflects your expertise, reads clearly, and builds trust with your clients.
           </p>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             {values.map((v, i) => (
               <div
                 key={i}
