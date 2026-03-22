@@ -39,25 +39,29 @@ export const hero = {
 export const values = [
   {
     icon: "✦",
-    title: "Industry-Fluent Copy",
-    text: `I'm not googling what a pre-purchase vet exam is. I understand 
-your clients because I am your client. Every piece I write speaks the language 
-your audience already thinks in.`,
+    title: "Deep Industry Understanding",
+    text: `You won’t need to explain your business or your audience. I bring both digital 
+    marketing expertise and real-world familiarity with equine and pet industries—so your content reflects 
+    the level of knowledge your clients expect.`,
   },
   {
     icon: "◷",
-    title: "Time Back in Your Day",
-    text: `Running an equine business is labor-intensive. You shouldn't also be 
-sweating over blog posts at midnight. I handle the marketing so you can handle the horses.`,
+    title: "Stay Focused on Your Business",
+    text: `I take content and marketing off your plate—so your website and messaging stay current, 
+    polished, and working for you without pulling you away from what matters most.`,
   },
   {
     icon: "▲",
-    title: "SEO That Gets You Found",
-    text: `Beautiful copy that nobody sees is just a diary entry. I write content 
-that's optimized for search engines and crafted to convert browsers into buyers.`,
+    title: "Built for Visibility and Results",
+    text: `Your content should do more than sound good. It should be discoverable, engaging, 
+    and effective; helping the right people find you, trust you, and take action.`,
   },
 ];
-
+icon: "▲",
+    title: "Structured for Clarity and Conversion",
+    text: `I don’t just write the words, I think through how your website works. From page structure 
+    to content flow, everything is designed to guide visitors, improve usability, and support your business goals.`,
+  
 // ============================================================
 // CREDENTIALS BAR (Homepage)
 // ============================================================
