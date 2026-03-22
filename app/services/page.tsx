@@ -48,7 +48,7 @@ export default function ServicesPage() {
       </section>
       {/* Racing Image Break */}
       <section className="relative h-[35vh] min-h-[250px] overflow-hidden">
-        <img src="/images/racing.jpg" alt="Thoroughbred horse racing" className="absolute inset-0 w-full h-full object-cover object-center" />
+        <img src="/images/racing.JPG" alt="Thoroughbred horse racing" className="absolute inset-0 w-full h-full object-cover object-center" />
         <div className="absolute inset-0 bg-gradient-to-t from-bark-800/60 via-transparent to-transparent" />
       </section>
       {/* Process Steps */}
