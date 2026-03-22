@@ -21,7 +21,8 @@ export interface BlogPost {
 
 export const blogPostsFull: BlogPost[] = [
   {
-    slug: "practical-guide-digital-marketing-2025",image: "/images/blog-digital-marketing.jpg",
+    slug: "practical-guide-digital-marketing-2025",
+    image: "/images/blog-digital-marketing.jpg",
     tag: "Digital Marketing",
     title: "A Practical Guide to Digital Marketing in 2025 for Small Businesses",
     excerpt:
@@ -149,7 +150,8 @@ export const blogPostsFull: BlogPost[] = [
 `,
   },
   {
-    slug: "seo-best-practices-equine",image: "/images/blog-seo-equine.jpg",
+    slug: "seo-best-practices-equine",
+    image: "/images/blog-seo-equine.jpg",
     tag: "SEO",
     title: "DIY SEO Best Practices for the Equine Professional",
     excerpt:
@@ -250,7 +252,8 @@ export const blogPostsFull: BlogPost[] = [
 `,
   },
   {
-    slug: "no-tricks-just-trust-blogging",image: "/images/blog-blogging.jpg",
+    slug: "no-tricks-just-trust-blogging",
+    image: "/images/blog-blogging.jpg",
     tag: "Content Strategy",
     title: "No Tricks, Just Trust: Could Blogging Be Your Secret Weapon?",
     excerpt:
@@ -337,7 +340,8 @@ export const blogPostsFull: BlogPost[] = [
 `,
   },
   {
-    slug: "hunter-pace-trail-ride",image: "/images/blog-hunter-pace.jpg",
+    slug: "hunter-pace-trail-ride",
+    image: "/images/blog-hunter-pace.jpg",
     tag: "Equestrian Life",
     title: "A Trail Ride with a Mission: The Hunter Pace",
     excerpt:
@@ -442,7 +446,8 @@ export const blogPostsFull: BlogPost[] = [
 `,
   },
   {
-    slug: "art-of-dressage",image: "/images/blog-dressage.jpg",
+    slug: "art-of-dressage",
+    image: "/images/blog-dressage.jpg",
     tag: "Equestrian Life",
     title: "Dancing Horses: Exploring the Art of Dressage",
     excerpt:
