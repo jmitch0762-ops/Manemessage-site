@@ -61,6 +61,8 @@ icon: "▲",
     title: "Structured for Clarity and Conversion",
     text: `I don’t just write the words, I think through how your website works. From page structure 
     to content flow, everything is designed to guide visitors, improve usability, and support your business goals.`,
+  },
+];
   
 // ============================================================
 // CREDENTIALS BAR (Homepage)
