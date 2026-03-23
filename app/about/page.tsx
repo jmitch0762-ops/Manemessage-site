@@ -25,10 +25,10 @@ export default function AboutPage() {
               </h2>
               <p className="text-bark-400 leading-relaxed mb-4">{about.intro}</p>
               <div className="flex flex-col gap-5 mb-4">
-  {about.story.split('\n\n').map((item, i) => (
-    <p key={i} className="text-bark-400 leading-relaxed">{item}</p>
-  ))}
-</div>
+                          {about.story.split('\n\n').map((item, i) => (
+                            <p key={i} className="text-bark-400 leading-relaxed">{item}</p>
+                          ))}
+                        </div>
               <p className="text-bark-400 leading-relaxed mb-8">{about.whyMe}</p>
 
               <div className="flex flex-wrap gap-2">
