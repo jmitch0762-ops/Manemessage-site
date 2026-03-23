@@ -227,16 +227,13 @@ export const blogPosts = [
 // ============================================================
 export const about = {
   headline: "Marketing Maven.\nEquestrian.\nYour Ideal Customer.",
-  intro: `I'm Jennifer Mitchell — a seasoned marketing professional with over a decade 
-of experience leading digital programs across high-tech, insurance, healthcare, 
-and retail. I've taken this expertise exclusively to the world I love most: 
-the equine and pet industry.`,
-  story: `I started riding early and got my first horse at 9-years old, not what one would expect...a young Thoroughbred 
-ex-racehorse. Throughout the years, horses taught me to have a strong work ethic, empathy, patience, and the 
-kind of grit that translates directly into how I approach business.`,
-  whyMe: `Here's why that matters for you: I am your ideal customer. I understand 
-what potential clients seek, whether it's a lameness vet exam, the perfect 
-boarding farm, or the right supplement. And, I love to write. When I write for your business, I'm translating expertise I already live.`,
+ intro: `I'm not just your copywriter — I'm your ideal customer. When a horse owner searches for a boarding farm, a lameness vet, or the right supplement, I'm the one searching. I know what builds trust in this industry, what your clients are really asking, and what makes them choose you over the competition.`,
+credentials: [
+  { icon: "🐴", label: "25+ years in the saddle", detail: "Starting with a Thoroughbred ex-racehorse at age nine. This industry shaped how I think, communicate, and show up for clients." },
+  { icon: "✍️", label: "Published equine industry writer", detail: "Former associate editor and monthly contributor for Horseman's Yankee Pedlar, later Equine Journal — one of the Northeast's leading equestrian publications." },
+  { icon: "📈", label: "10+ years of corporate marketing leadership", detail: "Directing digital programs across high-tech, insurance, healthcare, and retail before bringing that expertise exclusively to the world I love most." },
+],
+whyMe: `The result? Copy that doesn't need a fact-check. Strategy that doesn't need hand-holding. Work that sounds like it came from inside your industry — because it did.`,
   quote: "Throw your heart over, and the horse will follow. This applies to most hurdles in life.",
   industries: [
     "Boarding & Training",
