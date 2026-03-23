@@ -156,7 +156,7 @@ export default function HomePage() {
       <section className="py-20 md:py-28">
         <div className="max-w-[1500px] mx-auto px-[4vw]">
           <div className="section-label">From the Blog</div>
-          <h2 className="section-title">Equine Marketing Insights</h2>
+          <h2 className="section-title">Marketing Insights</h2>
           <p className="section-intro">
             Practical marketing advice for equine and pet businesses — written by
             someone who gets it.
