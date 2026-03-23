@@ -78,37 +78,43 @@ export const credentials = [
 export const services = [
   {
     title: "Website Copy & Landing Pages",
-    description: `Your website is your digital barn door — it should be inviting, 
-on-brand, and speak directly to your ideal client. I'll write SEO-optimized copy 
-that tells your story and inspires visitors to take the next step.`,
+    description: `Your website is your first impression, and in the equine and pet world, 
+    your clients can spot inauthenticity a mile away. I combine genuine industry knowledge with marketing expertise 
+    to write SEO-optimized copy that speaks your audience's language fluently, whether you're a boarding 
+    facility, veterinary practice, or pet service business, so visitors feel immediately 
+    understood and ready to take the next step.`,
     price: "Starting at $500",
   },
   {
     title: "SEO Optimized Blog Content",
-    description: `Keyword-rich blog posts that position you as the authority, drive 
-organic traffic, and give your audience real value. Businesses with active blogs 
-generate 67% more leads than those without.`,
+    description: `Consistent, keyword-rich blog content that positions you as the go-to expert in your 
+    niche, written by someone who already speaks your industry's language. No jargon explanations needed, 
+    no generic filler. Just high-quality posts that build trust with your audience and signal authority to Google. 
+    Small businesses that blog experience 126% more lead growth than those that don't.`,
     price: "Starting at $250",
   },
   {
     title: "Product & Sales Pages",
-    description: `Whether you're listing sales horses or tack inventory, compelling 
-product pages clearly inform and persuade. Well-crafted descriptions directly impact 
-sales and boost your visibility in search.`,
+    description: `Whether you're selling horses, supplements, pet products, or tack, your product pages are doing sales work 
+    around the clock, they need to earn it. Compelling, SEO-optimized descriptions don't just inform buyers; they rank in 
+    search and convert browsers into customers. Studies show that well-written product descriptions can increase conversion rates 
+    by up to 78%.`,
     price: "Starting at $150–$200",
   },
   {
     title: "Articles & Case Studies",
-    description: `Long-form content that informs your audience and performs well with 
-search engines. Articles and case studies can be repurposed across social media, 
-advertising, and email — maximum mileage from every piece.`,
+    description: `You have stories worth telling; client wins, transformations, expertise that took years to earn. 
+    Long-form articles and case studies turn that knowledge into content that ranks in search, builds authority with 
+    your audience, and gives you material to repurpose across email, social, and ads. One well-crafted piece works 
+    harder and longer than a dozen generic posts. In an industry built on trust, nothing sells your services better than proof.`,
     price: "Starting at $250",
   },
   {
     title: "Email Marketing & Newsletters",
-    description: `They gave you their email — now keep them engaged. I'll develop 
-an email strategy with compelling subject lines and content that keeps your business 
-top of mind when the timing is right.`,
+    description: `They gave you their email — now make it work. Email marketing delivers an average return of $36 for 
+    every $1 spent, making it the highest ROI channel in digital marketing. I'll develop a strategy with compelling subject 
+    lines, segmented lists, and content that nurtures your audience between purchases, appointments, and events, so when the 
+    timing is right, your business is already top of mind.`,
     price: "Starting at $150",
   },
 ];
