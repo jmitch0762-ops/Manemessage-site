@@ -227,7 +227,7 @@ export const blogPosts = [
 // ============================================================
 export const about = {
   headline: "Marketing Maven.\nEquestrian.\nYour Ideal Customer.",
- intro: `I'm not just your copywriter — I'm your ideal customer. When a horse owner searches for a boarding farm, a lameness vet, or the right supplement, I'm the one searching. I know what builds trust in this industry, what your clients are really asking, and what makes them choose you over the competition.`,
+ intro: `I'm not just your copywriter — I'm your ideal customer. When a horse or pet owner searches for a boarding farm, a veterinarian, or an obedience dog trainer, I'm the one searching. I know what builds trust in this industry, what your clients are really asking, and what makes them choose you over the competition.`,
 story: `🐴 25+ years in the saddle — Starting with a Thoroughbred ex-racehorse at age nine. This industry shaped how I think, communicate, and show up for clients.\n\n✍️ Published equine industry writer — Former associate editor and monthly contributor for Horseman's Yankee Pedlar, later Equine Journal, one of the Northeast's leading equestrian publications.\n\n📈 10+ years of corporate marketing leadership — Directing digital programs across high-tech, insurance, healthcare, and retail before bringing that expertise exclusively to the world I love most.`,
 whyMe: `The result? Copy that doesn't need a fact-check. Strategy that doesn't need hand-holding. Work that sounds like it came from inside your industry — because it did.`,
   quote: "Throw your heart over, and the horse will follow. This applies to most hurdles in life.",
