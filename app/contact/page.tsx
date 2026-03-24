@@ -119,8 +119,7 @@ export default function ContactPage() {
               <div className="space-y-0">
                 {[
                   { label: "Email", value: siteConfig.email },
-                  { label: "LinkedIn", value: "Jen Mitchell" },
-                ].map((item) => (
+                  ].map((item) => (
                   <div
                     key={item.label}
                     className="flex items-center gap-3 py-3 border-b border-bark-100 text-sm"
