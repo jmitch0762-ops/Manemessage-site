@@ -586,7 +586,7 @@ export const blogPostsFull: BlogPost[] = [
     excerpt:
       "Learn what dog owners look for when choosing a trainer and how your website can build trust, stand out, and attract the right clients.",
     date: "2026-03-24",
-    image: "",
+    image: "/images/piper-pine-cone.jpg",
     readTime: "4 min read",
     metaDescription:
       "Dog trainers: learn what pet owners look for when choosing a trainer and how your website can build trust, communicate your approach, and convert the right clients.",
