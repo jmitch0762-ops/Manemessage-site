@@ -163,18 +163,6 @@ export const testimonials = [
    }
 ];
 // ============================================================
-// PORTFOLIO ITEMS
-// ============================================================
-export const portfolio = [
-  {
-    type: "Note",
-    title: "Writing Samples",
-    description: "Visit the blog for recent writing samples covering digital marketing, SEO, content strategy, and equestrian topics.",
-    url: "/blog",
-    linkText: "View Blog Posts",
-  },
-];
-// ============================================================
 // BLOG POSTS
 // To add a new blog post: copy one of the objects below,
 // change the fields, and save. That's it!
