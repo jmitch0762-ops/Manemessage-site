@@ -23,7 +23,7 @@ export default function BlogPage() {
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {blogPostsFull.map((post) => {
+            {[...blogPostsFull].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()).map((post) => {
               const formattedDate = new Date(
                 post.date + "T12:00:00"
               ).toLocaleDateString("en-US", {
