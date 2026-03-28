@@ -3,7 +3,7 @@ import { blogPostsFull } from "@/content/blog-posts";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog | ManeMessage Marketing — Marketing Insights and Industry-Related Topics",
+  title: "Blog | ManeMessage Marketing — Marketing & Industry Insights",
   description:
     "Practical digital marketing and copywriting advice for equine and pet business owners.",
 };
@@ -16,9 +16,9 @@ export default function BlogPage() {
       <section className="py-20 md:py-28">
         <div className="max-w-[1500px] mx-auto px-[4vw]">
           <div className="section-label">Blog</div>
-          <h2 className="section-title">Marketing Insights</h2>
+          <h2 className="section-title">Marketing & Industry Insights</h2>
           <p className="section-intro">
-            Practical digital marketing and copywriting advice — written for
+            Practical digital marketing and copywriting advice, written for
             equine and pet business owners by someone who is one.
           </p>
 
