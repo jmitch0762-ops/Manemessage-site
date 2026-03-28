@@ -20,7 +20,99 @@ export interface BlogPost {
   content: string;
 }
 export const blogPostsFull: BlogPost[] = [
-  {
+ {
+    slug: "why-small-business-websites-sound-the-same",
+    tag: "Content Strategy",
+    title: "Why Most Small Business Websites Sound the Same (And How to Fix Yours)",
+    image: "/images/athena-driving.jpg",
+    excerpt:
+      "Does your website sound like everyone else\u2019s? Learn why it happens and how to create clear, authentic copy that actually connects and converts.",
+    date: "2026-03-28",
+    readTime: "3 min read",
+    metaDescription:
+      "Most small business websites sound the same. Learn why generic copy happens and how to write clear, specific website copy that connects with your audience and converts.",
+    content: `
+<p>If you have ever read your website and thought, &ldquo;This sounds fine, but it does not really sound like <em>me</em>,&rdquo; you are not alone.</p>
+
+<p>Most small business websites end up sounding the same. Polished. Professional. And completely forgettable.</p>
+
+<p>Not because the business is not unique. The issue is that the copy does not reflect what actually makes it different.</p>
+
+<h2>Why This Happens</h2>
+
+<p>There are a few common reasons your website might sound like everyone else&rsquo;s.</p>
+
+<p><strong>You are trying to sound &ldquo;professional.&rdquo;</strong> This often leads to safe, generic language that could apply to any business in any industry.</p>
+
+<p><strong>You are not sure what to say.</strong> So you default to what you have seen on competitor websites and hope it works.</p>
+
+<p><strong>You are too close to your own business.</strong> What feels obvious to you &mdash; your process, your expertise, the way you work with clients &mdash; is exactly what your audience needs to hear.</p>
+
+<h2>What Generic Copy Actually Looks Like</h2>
+
+<p>You have probably seen lines like these, or written them yourself:</p>
+
+<ul>
+<li>&ldquo;We provide high-quality services tailored to your needs.&rdquo;</li>
+<li>&ldquo;We are passionate about what we do.&rdquo;</li>
+<li>&ldquo;Customer satisfaction is our top priority.&rdquo;</li>
+</ul>
+
+<p>None of these are wrong. They are just invisible. They describe everyone, which means they describe no one.</p>
+
+<p>Now, imagine you run a boarding and training facility.</p>
+
+<p>Your website says: &ldquo;We offer quality horse care in a professional environment.&rdquo;</p>
+
+<p>Compare that to: &ldquo;Your horse gets daily turnout on 30 acres, individualized feeding programs, and eyes on them from 6 AM to 10 PM, because you should not have to worry while you are at work.&rdquo;</p>
+
+<p>One tells. The other shows exactly why a horse owner should choose <em>you</em>.</p>
+
+<p>Or say you are a dog trainer.</p>
+
+<p>&ldquo;We use positive reinforcement methods&rdquo; is fine.</p>
+
+<p>But &ldquo;I help reactive dogs learn to walk past other dogs without losing their minds &mdash; so you can stop dreading every walk&rdquo; tells a dog owner, <em>this person gets my exact problem</em>.</p>
+
+<p>That is the difference specificity makes.</p>
+
+<h2>How to Fix It</h2>
+
+<h3>Start with how you actually talk and think about WHO you are talking to.</h3>
+
+<p>If someone at the barn or a dog show asked what you do, you would not say: &ldquo;We provide customized solutions designed to meet your unique needs.&rdquo;</p>
+
+<p>You would say something like: &ldquo;I help horse businesses and pet owners get their websites to actually bring in clients.&rdquo;</p>
+
+<p>That is your real voice. Use it.</p>
+
+<h3>Get specific &mdash; uncomfortably specific.</h3>
+
+<p>Specificity is what makes copy stand out. Vague lines do not cut it, especially in industries like equine and pet services, where trust is everything and your prospects are comparing you to three other options.</p>
+
+<p>Instead of: &ldquo;We offer a range of services for you and your horse.&rdquo;</p>
+
+<p>Try: &ldquo;We specialize in dressage training for adult amateurs on green horses, because your first horse should not mean your first injury.&rdquo;</p>
+
+<p><strong>Clear always beats clever.</strong></p>
+
+<h3>Focus on the reader, not yourself.</h3>
+
+<p>Your website is not about what you offer. It is about what your audience needs. Your prospect is a busy barn owner, a vet juggling 60-hour weeks, a dog trainer trying to fill classes. They want to land on your site and immediately know: <em>Is this for me? Can this person help? What do I do next?</em></p>
+
+<p>Make those three questions easy to answer, and you are ahead of 90% of your competitors.</p>
+
+<h3>Make it scannable.</h3>
+
+<p>Most visitors are not reading every word. They are scanning. If your homepage is a wall of text, they are gone. Clear structure, short sections, and simple language make the difference between a bounce and a booking.</p>
+
+<h2>The Bottom Line</h2>
+
+<p>Your business is not generic. Your website copy should not be either. When your copy sounds like you, speaks directly to your ideal client, and clearly communicates your value, the right people will find you, trust you, and take action.</p>
+
+<p><em>If your website feels flat, unclear, or impossible to write yourself, let&rsquo;s talk. Book a free 30-minute discovery call, and we will figure out what your site actually needs to say.</em></p>
+`,
+  }, {
     slug: "practical-guide-digital-marketing-2025",
     image: "/images/blog-digital-marketing.jpg",
     tag: "Digital Marketing",
