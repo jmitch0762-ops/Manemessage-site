@@ -158,7 +158,7 @@ export default function HomePage() {
           <div className="section-label">From the Blog</div>
           <h2 className="section-title">Marketing & Industry Insights</h2>
           <p className="section-intro">
-            Practical marketing advice for equine and pet businesses — written by
+            Practical marketing advice & Interesting articles for equine and pet business owners — written by
             someone who gets it.
           </p>
 
