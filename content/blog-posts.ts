@@ -72,7 +72,7 @@ export const blogPostsFull: BlogPost[] = [
 
 <p>&ldquo;We use positive reinforcement methods&rdquo; is fine.</p>
 
-<p>But &ldquo;I help reactive dogs learn to walk past other dogs without losing their minds &mdash; so you can stop dreading every walk&rdquo; tells a dog owner, <em>this person gets my exact problem</em>.</p>
+<p>But &ldquo;I help reactive dogs learn to walk past other dogs without losing their minds, so you can stop dreading every walk&rdquo; tells a dog owner, <em>this person gets my exact problem</em>.</p>
 
 <p>That is the difference specificity makes.</p>
 
