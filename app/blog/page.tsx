@@ -3,7 +3,7 @@ import { blogPostsFull } from "@/content/blog-posts";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog | ManeMessage Marketing — Marketing Insights",
+  title: "Blog | ManeMessage Marketing — Marketing Insights and Industry-Related Topics",
   description:
     "Practical digital marketing and copywriting advice for equine and pet business owners.",
 };
