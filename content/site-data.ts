@@ -172,7 +172,7 @@ export const blogPosts = [
     slug: "practical-guide-digital-marketing-2025",
     tag: "Digital Marketing",
     title: "A Practical Guide to Digital Marketing in 2025 for Small Businesses",
-    excerpt: "Straightforward strategies that work for equine businesses without a massive marketing budget.",
+    excerpt: "Straightforward strategies that work for equine and pet businesses without a massive marketing budget.",
     date: "2025-01-15",
     externalUrl: "https://medium.com/@jenmitch_762/a-practical-guide-to-digital-marketing-in-2025-for-small-businesses-464a412cea03",
   },
