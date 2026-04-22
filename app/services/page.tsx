@@ -21,7 +21,6 @@ export default function ServicesPage() {
           <p className="section-intro">
             Every service is built for equine and pet businesses. No generic templates. No learning curve. I already speak your industry's language.
           </p>
-
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {services.map((s, i) => (
               <div
