@@ -20,7 +20,86 @@ export interface BlogPost {
   content: string;
 }
 export const blogPostsFull: BlogPost[] = [
- {
+{
+    slug: "ai-cant-write-your-content",
+    tag: "Content Strategy",
+    title: "Why Your AI-Written Website Sounds Like Everyone Else's",
+    excerpt:
+      "AI can draft a website in minutes. Here's why that's exactly the problem, and what a smarter approach looks like.",
+    date: "2026-04-22",
+    readTime: "6 min read",
+    image: "/images/ai-typewriter.jpg",
+    metaDescription:
+      "AI can write your website content, but should it? Honest take on the limits of AI copy for equine, veterinary, and pet business owners, and how to use it smarter.",
+    content: `
+<p>You can now build a website in an afternoon. Generate the homepage, spit out an About page, crank out five blog posts before lunch. AI has made it genuinely easier to produce content at speed, and for a small business owner juggling a barn full of horses, a waiting room full of pets, or a training calendar that&rsquo;s already overbooked, that is a tempting strategy.</p>
+
+<p>So here is the fair question: if AI can write it, why would you do it yourself or pay someone to do it?</p>
+
+<p>I&rsquo;ll answer that honestly, because I use AI too. The answer is not that AI is bad. The answer is that most people are using it in a way that guarantees their website will sound like every other website in their industry. And in the equine, veterinary, and pet world, that is a real problem. <strong>Everyone sounds the SAME!</strong></p>
+
+<h2>What AI Is Actually Good At</h2>
+
+<p>AI can be a useful tool when you know what to ask of it.</p>
+
+<ul>
+<li>It is good for getting unstuck when the blank page is staring you down.</li>
+<li>It can help you outline a blog post, draft a first pass at a service description, or brainstorm angles you had not considered.</li>
+<li>It is fast, it is cheap, and it will absolutely save you hours of writing, if that is not something you enjoy or do well.</li>
+</ul>
+
+<p>I use it. Most good writers I know use it. The question is how.</p>
+
+<h2>Where AI Falls Flat on Its Face</h2>
+
+<p>AI does not know your business. It cannot know your business. It was trained on the entire public internet, which means when you ask it to write copy for a horse boarding facility, it pulls from thousands of other horse boarding websites, most of which were written by people who did not know what they were doing either. Not to be clich&eacute;, but garbage in, garbage out.</p>
+
+<p>Here is what that actually looks like. Ask AI to write a homepage for a boarding barn and you will get something like this:</p>
+
+<blockquote><em>&ldquo;Welcome to Willow Creek Stables, where we provide premium boarding services for horses of all disciplines. Our knowledgeable staff is dedicated to the care and well-being of your equine partner. We offer a variety of boarding options to suit your needs.&rdquo;</em></blockquote>
+
+<p>That is not good writing. Why? It is invisible. There is nothing in that paragraph that would tell a prospective boarder why Willow Creek Stables is different from the twelve other barns within a 30 mile radius. No mention of whether it is a dressage barn or a trail riding barn, whether the pastures are rotational, whether there is an on-site trainer, or whether the owner has knowledge and lives on site. Every boarder wants to know those details. The blurb is broad and does not address those important details.</p>
+
+<p>The same thing happens in veterinary medicine. Ask AI to write an About page for a small animal clinic and you will get &ldquo;compassionate care,&rdquo; &ldquo;cutting-edge technology,&rdquo; and &ldquo;treating your pet like family.&rdquo; Every vet clinic says those things. It is wallpaper at this point. The pet owner who has just moved to the area and is looking for care for their beloved dog is not choosing you over the vet down the road because you said &ldquo;compassionate care,&rdquo; which by the way that vet said as well! She is choosing you because your website sounded like a human wrote it, because you mentioned you see a lot of reactive rescue dogs, because you have a fear-free certified tech on staff, because something on the page made her think, <em>this person gets it.</em></p>
+
+<p>AI cannot write that paragraph. You can. <strong>A good copywriter can pull this detail from you and put it on the page.</strong></p>
+
+<h2>The &ldquo;Good Enough&rdquo; Trap</h2>
+
+<p>This is where I think most small businesses get stuck, and it is the thing I want you to actually hear.</p>
+
+<p>AI content does not look bad. That is the problem. It looks fine. It checks the box. It reads like a website. When you finish generating it and scan it over, your brain says &ldquo;yeah, that works,&rdquo; and you move on.</p>
+
+<p><strong>But here is what it is not doing.</strong></p>
+
+<p>It is not building trust with a horse owner who is leaving a barn filled with drama for a more peaceful setting. It is not reassuring a new puppy parent who is choosing her first vet. It is not convincing an owner of a young horse that you understand how much is on the line when she hires a trainer. It is not differentiating you from the three competitors whose websites used the exact same AI prompt you did.</p>
+
+<p>&ldquo;Good enough&rdquo; copy does not cost you anything the day you publish it. <strong>It costs you the client who visited your site, felt nothing, and clicked back to Google.</strong> You will never know he or she was there.</p>
+
+<p>People are making decisions about creatures they love, often what they refer to as &ldquo;family.&rdquo; They are looking for signals that you are competent, experienced, and the kind of person they want in their corner. A homepage full of stock phrases sends the opposite signal, whether you meant it to or not.</p>
+
+<h2>A Smarter Way to Use AI</h2>
+
+<p>None of this means you should stop using AI. It means you should stop letting it do the parts of the job it cannot do.</p>
+
+<p>Here is what I would recommend:</p>
+
+<p><strong>Use AI for:</strong> outlines, first drafts, brainstorming, breaking writer&rsquo;s block, organizing your thoughts, generating subject lines you can pick from, helping you to reword a paragraph five different ways so you can see which feels right.</p>
+
+<p><strong>Do not use AI for:</strong> your core messaging, your brand voice, the real stories that make your business yours, anything that requires knowing your audience, your market, or your industry the way you know it.</p>
+
+<p>The second list is where your website actually earns its keep. That is the layer a copywriter adds, or that you add yourself if you are willing to do the work. It is the layer AI cannot fake because it does not have the raw material and has not spent the time to talk to you and learn about you. It has never been to your barn, your clinic, or your grooming shop. It does not know what your clients say at drop-off. It does not know the story of the horse you rehabbed last year or the dog that came in for a dental and stayed through a heart scare. Those details are what make someone read your website and think, <em>&ldquo;I want to work with this person.&rdquo;</em></p>
+
+<h2>The Bottom Line</h2>
+
+<p>AI is a tool. A good one. It belongs in your process.</p>
+
+<p>But a tool is not a strategy, and speed is not the same as quality. If your website feels generic, if it reads like every other site in your industry, if you are wondering why the traffic is not converting into calls, the problem is almost never that you need more content. It is that the content you have is not doing the job only a human voice can do.</p>
+
+<p>Use AI to save time. Use your experience, your industry, and your voice to actually land the message and differentiate you and your offerings. That is the combination that works.</p>
+`,
+  },
+  {
     slug: "why-small-business-websites-sound-the-same",
     tag: "Content Strategy",
     title: "Why Most Small Business Websites Sound the Same (And How to Fix Yours)",
