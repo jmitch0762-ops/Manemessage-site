@@ -85,7 +85,7 @@ export default function BlogPostPage({
           {/* CTA at bottom of post */}
           <div className="mt-14 p-8 bg-cream-200 rounded-sm border border-saddle-500/10">
             <h3 className="font-heading font-bold text-bark-700 text-xl mb-2">
-              Ready to grow your equine business?
+              Ready to grow your equine or pet business?
             </h3>
             <p className="text-bark-300 text-sm leading-relaxed mb-5">
               Book a free 30-minute discovery call to discuss your content
