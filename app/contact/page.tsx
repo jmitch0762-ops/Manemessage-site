@@ -70,13 +70,13 @@ export default function ContactPage() {
                 <select name="business_type" className="w-full px-4 py-3 font-body text-sm border border-bark-200 rounded-sm bg-cream-200 text-bark-800 focus:outline-none focus:border-saddle-500 transition-colors">
                   <option value="">Select your industry…</option>
                   <option>Boarding, Sales & Training</option>
-                  <option>Breeding Farm</option>
-                  <option>Dog Training & Grooming</option>
-                  <option>Equine Therapy Program</option>
+                  <option>Breeding Farms</option>
+                  <option>Dog Training, Boarding & Grooming</option>
+                  <option>Equine Therapy Programs</option>
                   <option>Feed & Tack / Supplements</option>
                   <option>Horse Rescue / Non-Profit</option>
                   <option>Pet Services & Products</option>
-                  <option>Veterinarian / Equine Medicine</option>
+                  <option>Veterinarian (Small Animal / Equine Medicine)</option>
                   <option>Other</option>
                 </select>
               </div>
