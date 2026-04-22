@@ -76,7 +76,8 @@ export default function ContactPage() {
                   <option>Feed & Tack / Supplements</option>
                   <option>Horse Rescue / Non-Profit</option>
                   <option>Pet Services & Products</option>
-                  <option>Veterinarian (Small Animal / Equine Medicine)</option>
+                  <option>Veterinarian - Small Animal</option>
+                  <option>Veterinarian - Equine</option>
                   <option>Other</option>
                 </select>
               </div>
