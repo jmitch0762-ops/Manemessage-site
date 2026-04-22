@@ -3,7 +3,7 @@ import CTABanner from "@/components/CTABanner";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Services | ManeMessage Marketing — Equine Copywriting & Marketing",
+  title: "Services | ManeMessage Marketing | Copywriting for Equine, Vet & Pet Businesses",
   description:
     "Website copy, SEO blogs, product pages, articles, and email marketing for equine and pet businesses. View services and pricing.",
 };
