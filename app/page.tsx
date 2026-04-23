@@ -196,16 +196,16 @@ export default function HomePage() {
       {/* ============ EMAIL SIGNUP ============ */}
       <section className="py-20 md:py-28 bg-cream-200">
         <div className="max-w-[700px] mx-auto px-[4vw] text-center">
-          <div className="section-label">Free Resource</div>
-          <h2 className="font-heading font-bold text-saddle-500 text-2xl md:text-3xl leading-tight mb-4">
-            Is Your Website Copy Actually Working?
-          </h2>
-          <p className="text-bark-300 text-base leading-relaxed mb-8">
-            Download the free Website Copy Audit Checklist and evaluate your site
-            across six key areas. No fluff, just an honest look at where your copy
-            may be costing you clients.
-          </p>
-
+          <div className="section-label">Free Audit Checklist</div>
+<h2 className="font-heading font-bold text-saddle-500 text-2xl md:text-3xl leading-tight mb-4">
+  Is Your Website Costing You Clients?
+</h2>
+<p className="text-bark-300 text-base leading-relaxed mb-8">
+  Most small business websites sound the same, say nothing specific, and
+  bury the one thing that matters: the call to action. This 15-minute
+  audit identifies the six things costing you leads, and shows you
+  exactly what to fix.
+</p>
           <form
   action="https://manemessagemarketing.us2.list-manage.com/subscribe/post?u=df252c5f76a7e84e7b0a6f6ae&amp;id=2384b06c46&amp;f_id=00d8dbe1f0"
   method="post"
@@ -244,7 +244,7 @@ export default function HomePage() {
 </form>
 
           <p className="text-xs text-bark-200 mt-4">
-            No spam. Just useful marketing insights for your business.
+           Delivered straight to your inbox. Unsubscribe anytime.
           </p>
         </div>
       </section>
