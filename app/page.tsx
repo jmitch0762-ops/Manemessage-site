@@ -207,34 +207,41 @@ export default function HomePage() {
           </p>
 
           <form
-            action="https://manemessagemarketing.us2.list-manage.com/subscribe/post?u=df252c5f76a7e84e7b0a6f6ae&amp;id=2384b06c46&amp;f_id=00d8dbe1f0"
-            method="post"
-            target="_blank"
-            className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto"
-          >
-            <input
-              type="email"
-              name="EMAIL"
-              placeholder="Your email address"
-              required
-              className="flex-1 px-4 py-3 border border-bark-100 rounded-sm text-sm text-bark-700 bg-white focus:outline-none focus:border-saddle-500 transition-colors"
-            />
-            {/* Bot protection field - do not remove */}
-            <div aria-hidden="true" style={{ position: "absolute", left: "-5000px" }}>
-              <input
-                type="text"
-                name="b_df252c5f76a7e84e7b0a6f6ae_2384b06c46"
-                tabIndex={-1}
-                defaultValue=""
-              />
-            </div>
-            <button
-              type="submit"
-              className="btn-primary !bg-saddle-500 hover:!bg-saddle-400 whitespace-nowrap"
-            >
-              Get the Checklist
-            </button>
-          </form>
+  action="https://manemessagemarketing.us2.list-manage.com/subscribe/post?u=df252c5f76a7e84e7b0a6f6ae&amp;id=2384b06c46&amp;f_id=00d8dbe1f0"
+  method="post"
+  target="_blank"
+  className="flex flex-col gap-3 max-w-md mx-auto"
+>
+  <input
+    type="text"
+    name="FNAME"
+    placeholder="First name"
+    required
+    className="w-full px-4 py-3 border border-bark-100 rounded-sm text-sm text-bark-700 bg-white focus:outline-none focus:border-saddle-500 transition-colors"
+  />
+  <input
+    type="email"
+    name="EMAIL"
+    placeholder="Your email address"
+    required
+    className="w-full px-4 py-3 border border-bark-100 rounded-sm text-sm text-bark-700 bg-white focus:outline-none focus:border-saddle-500 transition-colors"
+  />
+  {/* Bot protection field - do not remove */}
+  <div aria-hidden="true" style={{ position: "absolute", left: "-5000px" }}>
+    <input
+      type="text"
+      name="b_df252c5f76a7e84e7b0a6f6ae_2384b06c46"
+      tabIndex={-1}
+      defaultValue=""
+    />
+  </div>
+  <button
+    type="submit"
+    className="btn-primary !bg-saddle-500 hover:!bg-saddle-400 whitespace-nowrap"
+  >
+    Get the Checklist
+  </button>
+</form>
 
           <p className="text-xs text-bark-200 mt-4">
             No spam. Just useful marketing insights for your business.
