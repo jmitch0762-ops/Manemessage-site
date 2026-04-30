@@ -204,7 +204,7 @@ export default function HomePage() {
 <p className="text-bark-300 text-base leading-relaxed mb-8">
   Most small business websites sound the same, say nothing specific, and
   bury the one thing that matters: the call to action. This 15-minute
-  audit checklist identifies the six categories that could be costing you leads, and shows you
+  checklist identifies the six categories that could be costing you leads, and shows you
   exactly what to fix.
   </p>
   <LeadMagnetForm />
