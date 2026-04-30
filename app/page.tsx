@@ -206,7 +206,8 @@ export default function HomePage() {
   bury the one thing that matters: the call to action. This 15-minute
   audit identifies the six things costing you leads, and shows you
   exactly what to fix.
-<LeadMagnetForm />
+  </p>
+  <LeadMagnetForm />
     </div>
       </section>
 
