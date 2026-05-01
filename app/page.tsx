@@ -99,7 +99,7 @@ export default function HomePage() {
             ))}
           </div>
 
-          {/* Credentials bar */}
+         {/* Credentials bar */}
           <div className="flex flex-wrap gap-12 py-10 border-t border-b border-saddle-500/10 mt-12 justify-center">
             {credentials.map((c, i) => (
               <div key={i} className="flex items-baseline gap-3">
@@ -112,10 +112,6 @@ export default function HomePage() {
               </div>
             ))}
           </div>
-        </div>
-      </section>
-
-     </div>
         </div>
       </section>
 
@@ -137,7 +133,6 @@ export default function HomePage() {
       </section>
 
       {/* ============ TESTIMONIALS ============ */}
-      <section className="py-20 md:py-28 bg-bark-800"> {/* ============ TESTIMONIALS ============ */}
       <section className="py-20 md:py-28 bg-bark-800">
         <div className="max-w-[1500px] mx-auto px-[4vw]">
           <div className="section-label !text-saddle-400">Client Results</div>
