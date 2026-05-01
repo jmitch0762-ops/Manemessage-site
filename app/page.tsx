@@ -115,7 +115,29 @@ export default function HomePage() {
         </div>
       </section>
 
+     </div>
+        </div>
+      </section>
+
+      {/* ============ EMAIL SIGNUP ============ */}
+      <section className="py-20 md:py-28 bg-cream-200">
+        <div className="max-w-[700px] mx-auto px-[4vw] text-center">
+          <div className="section-label">Free Audit Checklist</div>
+          <h2 className="font-heading font-bold text-saddle-500 text-2xl md:text-3xl leading-tight mb-4">
+            Is Your Website Costing You Clients?
+          </h2>
+          <p className="text-bark-300 text-base leading-relaxed mb-8">
+            Most small business websites sound the same, say nothing specific, and
+            bury the one thing that matters: the call to action. This 15-minute
+            checklist identifies the six categories that could be costing you leads, and shows you
+            exactly what to fix.
+          </p>
+          <LeadMagnetForm />
+        </div>
+      </section>
+
       {/* ============ TESTIMONIALS ============ */}
+      <section className="py-20 md:py-28 bg-bark-800"> {/* ============ TESTIMONIALS ============ */}
       <section className="py-20 md:py-28 bg-bark-800">
         <div className="max-w-[1500px] mx-auto px-[4vw]">
           <div className="section-label !text-saddle-400">Client Results</div>
@@ -194,23 +216,7 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-      {/* ============ EMAIL SIGNUP ============ */}
-      <section className="py-20 md:py-28 bg-cream-200">
-        <div className="max-w-[700px] mx-auto px-[4vw] text-center">
-          <div className="section-label">Free Audit Checklist</div>
-<h2 className="font-heading font-bold text-saddle-500 text-2xl md:text-3xl leading-tight mb-4">
-  Is Your Website Costing You Clients?
-</h2>
-<p className="text-bark-300 text-base leading-relaxed mb-8">
-  Most small business websites sound the same, say nothing specific, and
-  bury the one thing that matters: the call to action. This 15-minute
-  checklist identifies the six categories that could be costing you leads, and shows you
-  exactly what to fix.
-  </p>
-  <LeadMagnetForm />
-    </div>
-      </section>
-
+      
       {/* ============ CTA ============ */}
       <CTABanner
         headline="Ready to Get Your Mane Message Out?"
