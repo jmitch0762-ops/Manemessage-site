@@ -58,7 +58,7 @@ export const blogPostsFull: BlogPost[] = [
 
 <p>Most struggling rescues are trying to win with the website alone or with only a social media presence. Yet, most thriving rescues are running <strong>all three layers</strong> and letting each one do what they are good at.</p>
 
-<p>All Seated in a Barn (ASIAB) is the clearest current example of this in the rescue world.</p>
+<p><a href="https://allseatedinabarn.com" target="_blank" rel="noopener noreferrer">All Seated in a Barn</a> (ASIAB) is the clearest current example of this in the rescue world.</p>
 
 <ul>
 <li>Their Instagram has over 270,000 followers.</li>
