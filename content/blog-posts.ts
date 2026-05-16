@@ -22,7 +22,7 @@ export interface BlogPost {
 export const blogPostsFull: BlogPost[] = [
   {
     slug: "about-page-that-wins-business",
-    image: "/images/about-page-dog-paw.jpg",
+    image: "/images/about-page-handshake.jpg",
     tag: "Content Strategy",
     title: "How to Write Your Website's About Page That Actually Wins You Business",
     excerpt: "Your About page is your business interview. Most fail it by writing about the wrong person. Here is how to write one that actually wins you business.",
