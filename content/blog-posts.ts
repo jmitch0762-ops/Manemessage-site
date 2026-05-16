@@ -21,6 +21,153 @@ export interface BlogPost {
 }
 export const blogPostsFull: BlogPost[] = [
   {
+    slug: "about-page-that-wins-business",
+    image: "/images/about-page-dog-paw.jpg",
+    tag: "Content Strategy",
+    title: "How to Write Your Website's About Page That Actually Wins You Business",
+    excerpt: "Your About page is your business interview. Most fail it by writing about the wrong person. Here is how to write one that actually wins you business.",
+    date: "2026-05-15",
+    readTime: "9 min read",
+    metaDescription: "Your About page is your business interview. Most fail it by writing about the wrong person. Learn how to write one that actually wins business.",
+    content: `<p><em>The best About pages aren&rsquo;t just about you. Here&rsquo;s why.</em></p>
+
+<p>Your website About page is the second most-visited page on your website.</p>
+
+<p>People click it when they are deciding whether to trust you, hire you, or buy from you. It is, in a real sense, your business interview.</p>
+
+<p>And most About pages fail that interview before the visitor finishes the first few sentences.</p>
+
+<p>I have read hundreds of them, across the equine, pet, and veterinary industries, plus plenty of small business sites outside my niche. The same patterns show up everywhere.</p>
+
+<p>These are not patterns of bad writing. They are patterns of well-intentioned business owners sitting down at midnight to summarize themselves into a few hundred words, which turns out to look like a resume and be one of the hardest pieces of writing anyone can be asked to do.</p>
+
+<p>So, before we get to how to fix this, let me name what is actually going wrong, because once you see it on your own page, you cannot unsee it.</p>
+
+<h2>The Cardinal Mistake: You Are Writing About the Wrong Person</h2>
+
+<p>Almost every weak About page makes the same fundamental error. It is written about the business owner instead of about the reader. It&rsquo;s not About You.</p>
+
+<p>That sounds counterintuitive. The page is literally called &ldquo;About,&rdquo; and it is on your website. But here is what is happening when a visitor clicks your About page: they are not curious <em>about you</em> in the abstract.</p>
+
+<p>They are trying to figure out if <strong>you can help them</strong>. Every sentence on the page is either moving them closer to that decision or pushing them further from it.</p>
+
+<p>Watch the pattern of how this looks in practice across three different businesses.</p>
+
+<p><strong><em>Equine: The horse trainer</em></strong></p>
+
+<blockquote><p><em>&ldquo;I have been riding since I was four years old and have competed at the Grand Prix level for over twenty years. I am a certified USDF instructor and have trained horses for clients across the Northeast. My passion for horses started when my grandmother bought me my first pony.&rdquo;</em></p></blockquote>
+
+<p>Everything in that paragraph is true and impressive.</p>
+
+<p>None of it answers the visitor&rsquo;s real question, which is closer to: &ldquo;Can you help me with a horse that refuses fences, or my young horse who is anxious under saddle?&rdquo; The trainer stated facts. They have not yet earned the click on the button &ldquo;Schedule a Lesson.&rdquo;</p>
+
+<p><strong><em>Veterinary: The small animal practice</em></strong></p>
+
+<blockquote><p><em>&ldquo;Founded in 1998, our practice has been serving the community for over 25 years. Our compassionate team of veterinarians and technicians is dedicated to providing the highest quality of care for your beloved pet. We are committed to staying at the forefront of veterinary medicine.&rdquo;</em></p></blockquote>
+
+<p>Tenure, dedication, and commitment are all good things to have. None of them tell the visitor whether they handle anxious dogs gently, whether they explain treatment costs before procedures, or whether the vet will sit on the floor with a nervous cat.</p>
+
+<p>Every veterinary practice in America could publish this paragraph word-for-word. That is the giveaway. If your About copy could belong to any business in your category, it is not doing the job.</p>
+
+<p><strong><em>Small Business: The business coach</em></strong></p>
+
+<blockquote><p><em>&ldquo;As a certified business coach with over fifteen years of experience, I help entrepreneurs unlock their potential and achieve their goals. My approach is rooted in proven methodologies and a passion for helping others succeed. I hold certifications from ICF and have spoken at numerous industry conferences.&rdquo;</em></p></blockquote>
+
+<p>Read that again. Strip out the word &ldquo;business&rdquo; and it could describe a coach in any field, including ones that do not exist. There is no specific reader in mind, no specific problem being solved, no specific approach being named. It&rsquo;s a resume.</p>
+
+<p>The pattern is the same in all three.</p>
+
+<p>The writer is listing their competence rather than demonstrating relevance. Competence feels safer because it does not require knowing the reader, their potential client.</p>
+
+<h2>What an About Page Is Actually For</h2>
+
+<p>An About page has exactly one job.</p>
+
+<p>It helps the right visitor decide that you are the right person to help them. Everything that supports that decision belongs on the page. Everything that does not support that decision is fighting for space.</p>
+
+<p>The About page is not a biography. It is not a resume. It is not a place to list every credential, every association membership, every year of experience as a free-standing fact.</p>
+
+<p>Those things might appear on the page, but only when they serve the visitor&rsquo;s decision. Twenty years of experience matters because it tells the visitor you have probably seen their problem before, not because it tells them you have been at this for a long time.</p>
+
+<p><em>The fastest way to test whether something belongs on your About page is to ask: &ldquo;Does this help the reader decide I am the right person to solve their problem?&rdquo;</em></p>
+
+<p><em>If the answer is yes, keep it. If the answer is no, or &ldquo;maybe, eventually, once they get to know me,&rdquo; cut it or move it.</em></p>
+
+<h2>The Rewrite: One Page, Two Versions</h2>
+
+<p>Let me show you what this looks like in practice.</p>
+
+<p>Here is the horse trainer example from earlier, rewritten with the cardinal principle applied. Same trainer, same credentials, same career. Different page entirely.</p>
+
+<p><strong><em>Before</em></strong></p>
+
+<blockquote><p><em>&ldquo;I have been riding since I was four years old and have competed at the Grand Prix level for over twenty years. I am a certified USDF instructor and have trained horses for clients across the Northeast. My passion for horses started when my grandmother bought me my first pony.&rdquo;</em></p></blockquote>
+
+<p><strong><em>After</em></strong></p>
+
+<blockquote><p><em>&ldquo;If you have a horse who stops at fences, rushes them, or has lost confidence after a bad fall, you are in the right place. I work with adult amateur riders and their horses to rebuild trust between them, mostly through ground work, careful gymnastics, and patience that does not exist in most show-barn programs. I have been doing this for twenty years, with USDF certification and a competitive background through Grand Prix, but the part that actually matters is that I have worked with hundreds of horses who arrived sour or scared and they left with confidence and trust, ready to tackle the course.&rdquo;</em></p></blockquote>
+
+<p>Notice what changed. The credentials are still there. The career is still there. But the writing <strong>leads with the reader</strong>, names a specific problem, names a specific approach, and uses the experience as evidence that the trainer can help, rather than as a free-standing claim to authority.</p>
+
+<p>The &ldquo;before&rdquo; version makes the trainer feel impressive. The &ldquo;after&rdquo; version makes the trainer someone you want to hire.</p>
+
+<p>That distinction is the whole point.</p>
+
+<p>Most About pages are focused on making the business owner look impressive. The good ones are written to make the specific person reading want to hire you. Period.</p>
+
+<h2>What to Keep, What to Cut</h2>
+
+<p>Once you have the principle, the practical decisions get easier.</p>
+
+<h3>Keep your story, but only the parts that build trust for the work.</h3>
+
+<p>Personal story matters because it tells the reader why you do what you do, and why you do it the way you do. The grandmother and the first pony might belong on the page, but only if they connect to how you train horses today. A story that ends with &ldquo;and that is when I knew horses were my passion&rdquo; does not earn its space, because every business owner claims passion.</p>
+
+<h3>Keep credentials, but make them work as evidence.</h3>
+
+<p>Certifications, awards, and years of experience belong on the page, but they should be doing a job. Pair every credential with what it means for the reader. &ldquo;USDF certified&rdquo; is a credential. &ldquo;USDF certified, which means my eye for biomechanics is trained on the same standards your show judges will use&rdquo; is evidence.</p>
+
+<p>The first one is for you. The second one is for them.</p>
+
+<h3>Cut anything that could belong to any business in your category.</h3>
+
+<p>&ldquo;Dedicated team.&rdquo; &ldquo;Committed to excellence.&rdquo; &ldquo;Passionate about helping clients succeed.&rdquo; If your competitors could copy and paste your sentence onto their site without changing a word, the sentence is not earning its space.</p>
+
+<p>Specificity is the entire game.</p>
+
+<h3>Cut the photo gallery of credentials.</h3>
+
+<p>You do not need to list every association you have ever joined. Pick the two or three that mean something to the reader and use them. The rest is clutter that pushes the reader past the part of the page that would have converted them.</p>
+
+<h3>Add a clear next step.</h3>
+
+<p>The About page should end with the reader knowing exactly what to do if they think you might be the right fit.</p>
+
+<ul>
+<li>Schedule a call.</li>
+<li>Book a consultation.</li>
+<li>Visit the barn.</li>
+</ul>
+
+<p>Whatever the next step is in your sales process, name it.</p>
+
+<h2>The Test</h2>
+
+<p>Here is a short exercise for your own About page.</p>
+
+<p>Pull it up right now in another tab. Read the first paragraph out loud and then ask yourself one question.</p>
+
+<p><em>&ldquo;If a stranger read this paragraph, would they be able to tell which of their problems I solve?&rdquo;</em></p>
+
+<p>If the answer is yes, your page is doing the job most About pages fail at. Keep going. Run the same test on each paragraph that follows.</p>
+
+<p>If the answer is no, you have a clear edit in front of you. Not because the page is bad, but because the writing has been pointed at the wrong person. Do not make the About page all about you.</p>
+
+<p>Your About page is your business interview. Most fail because they answer the wrong question, what makes me impressive, instead of the one the reader is actually asking: <strong>can you help me?</strong></p>
+
+<p>You do not need a copywriter to fix this. You need to be willing to write less about yourself and more about the person you want to help.</p>`,
+  },
+  {
     slug: "horse-rescue-marketing-online",
     image: "/images/rescue-blog.jpg",
     tag: "Content Strategy",
