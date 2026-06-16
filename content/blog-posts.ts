@@ -21,6 +21,137 @@ export interface BlogPost {
 }
 export const blogPostsFull: BlogPost[] = [
   {
+    slug: "headline-test-homepage",
+    image: "/images/headline-pulls-weight.jpg",
+    tag: "Content Strategy",
+    title: "The Headline Test: Is Your Homepage Headline Pulling Its Weight?",
+    excerpt: "Your homepage headline has about ten seconds to work. Here's a quick three-part test to tell whether yours is earning its spot, or quietly costing you clients.",
+    date: "2026-06-16",
+    readTime: "6 min read",
+    metaDescription: "Is your homepage headline pulling its weight? A quick three-part test, with before-and-after headline examples for equine, pet, and vet businesses.",
+    content: `<p>The headline at the top of your website is the first thing a visitor reads, and for most small businesses it is also the <em>most wasted line</em> on the entire site.</p>
+
+<p>It sits in the most valuable spot you own, the place every visitor looks at first.</p>
+
+<p>Does it say anything at all about what you can do for your target audience? If the answer is &ldquo;not really,&rdquo; that is an <em>expensive</em> mistake.</p>
+
+<p>The Nielsen Norman Group, which studies how people actually use websites, found that visitors often leave a page within 10 to 20 seconds unless they quickly see a reason to stay. First impressions can form in around 50 milliseconds.</p>
+
+<p>To hold someone past that first harsh judgment, you must make your value clear within ~10 seconds.</p>
+
+<p>Your headline is what buys you those seconds, or loses them.</p>
+
+<p>David Ogilvy, one of the most successful ad writers who ever lived, put it bluntly decades ago: on average, five times as many people read the headline as they read the body copy. If your headline does not grab them, most visitors never read a word of the copy underneath it. You can have a beautiful site and a great offer, but you will still lose people at the first line.</p>
+
+<p>So, the headline counts more than you think. It is the hook and the gatekeeper.</p>
+
+<p>The good news is that you do not need to be a copywriter to tell whether yours is working.</p>
+
+<p>Before we get into the headline test, it is important to establish that your headline <em>does not have to do it all.</em></p>
+
+<h2>A headline does not have to do it all</h2>
+
+<p>Here is the part that trips up good business owners, and it is worth saying plainly. Your headline <strong>almost never carries the whole job by itself</strong>.</p>
+
+<p>On most homepages it works as a team: a small line above it (&ldquo;eyebrow&rdquo;), the headline, a supporting line below (&ldquo;accent&rdquo;).</p>
+
+<p><em>The headline&rsquo;s real job is clarity</em>, what you do and who it is for. The thing that makes you different, the part only you can say, can live in the line above or below it. So do not force one line to be clear, specific, and unique all at once. Let the headline be clear and let the lines around it carry what makes you you.</p>
+
+<p>Spread the load, and the pressure on that single line disappears.</p>
+
+<h2>The Headline Test</h2>
+
+<p>Read the headline at the top of your homepage right now, then run it through these three questions. Be honest. The goal is not a perfect score, it is to see where you may be losing people. Most Important: Remember to use this as a guide, and recall that the headline does not have to do it all.</p>
+
+<h3>1. The Swap Test</h3>
+
+<p>Could a competitor down the road put their name on your whole homepage opening, the headline and the lines right around it, and have it still fit?</p>
+
+<p>If yes, you have room to get more specific. Lines like &ldquo;Welcome to our barn,&rdquo; &ldquo;Compassionate care for your pets,&rdquo; or &ldquo;Quality service you can trust&rdquo; describe every business in the category, so they do not give a visitor a reason to choose you.</p>
+
+<p>Think of this as a nudge toward specificity, not a pass-or-fail grade. A clean, even slightly broad headline can be exactly right, <em>as long as something nearby makes clear what sets you apart.</em></p>
+
+<h3>2. The &ldquo;For Me?&rdquo; Test</h3>
+
+<p>Your visitor is silently asking one question: am I in the right place? Would your ideal client read the headline and instantly feel the site was built for them?</p>
+
+<p>A good headline answers it before they have to wonder.</p>
+
+<p>&ldquo;We help animals live better lives&rdquo; tells a horse owner nothing. &ldquo;Boarding built for performance horses&rdquo; tells a backyard trail rider this is not their barn, and tells the eventer that it is. Being specific does not shrink your audience. It targets the right ones.</p>
+
+<h3>3. The &ldquo;So What?&rdquo; Test</h3>
+
+<p>Does your headline say what the customer gets, or only what you do? Most headlines list a feature and stop there. The reader&rsquo;s real question is, what does that do for me?</p>
+
+<p>&ldquo;24/7 turnout&rdquo; is a feature. But saying, &ldquo;Your horse gets all-day outside, even when you cannot get to the barn&rdquo; is the thing the owner actually wants. Say the outcome, not just the feature or service.</p>
+
+<p>There is one more check, and it is the fastest. Read your headline out loud to someone who does not know your business. If they pause, squint, or ask &ldquo;wait, what is it you do?&rdquo;, that&rsquo;s a sign your headline needs more clarity.</p>
+
+<p><strong>Clear beats clever every single time.</strong> A headline should not take a second to decode.</p>
+
+<p>A headline such as &ldquo;Where Passion Meets Excellence&rdquo; sounds nice, but it could belong to almost any business. &ldquo;Dressage training for riders who want confidence in the show ring&rdquo; immediately tells visitors what you do and who it&rsquo;s for.</p>
+
+<p>The best part? You can take this beyond the headline. Use these same three questions on every email subject line you send, the title of every blog post, the header on your services page, even your Google Business listing.</p>
+
+<h2>What this looks like in the real world</h2>
+
+<p>Each pair below is a weak headline and a stronger rewrite. Watch for the patterns.</p>
+
+<div style="background:#F6F2EC;border-left:3px solid #7A5230;padding:1rem 1.25rem;margin:1.25rem 0;border-radius:4px;">
+  <p style="margin:0 0 0.25rem;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.08em;color:#6B6B6B;">Before</p>
+  <p style="margin:0 0 0.75rem;font-style:italic;color:#6B6B6B;">&ldquo;Welcome to our stables&rdquo;</p>
+  <p style="margin:0 0 0.25rem;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.08em;color:#7A5230;">After</p>
+  <p style="margin:0 0 0.5rem;font-weight:600;color:#1E1A16;">&ldquo;Full-care boarding, daily turnout and on-site training&rdquo;</p>
+  <p style="margin:0;font-size:0.95rem;color:#4A4339;">A stranger instantly knows what you offer and the level of care, before they ever learn your name.</p>
+</div>
+
+<div style="background:#F6F2EC;border-left:3px solid #7A5230;padding:1rem 1.25rem;margin:1.25rem 0;border-radius:4px;">
+  <p style="margin:0 0 0.25rem;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.08em;color:#6B6B6B;">Before</p>
+  <p style="margin:0 0 0.75rem;font-style:italic;color:#6B6B6B;">&ldquo;Compassionate, quality veterinary care&rdquo;</p>
+  <p style="margin:0 0 0.25rem;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.08em;color:#7A5230;">After</p>
+  <p style="margin:0 0 0.5rem;font-weight:600;color:#1E1A16;">&ldquo;Same-day sick visits for dogs and cats&rdquo;</p>
+  <p style="margin:0;font-size:0.95rem;color:#4A4339;">It names a real, urgent need and who it is for, instead of a feeling any clinic could claim.</p>
+</div>
+
+<div style="background:#F6F2EC;border-left:3px solid #7A5230;padding:1rem 1.25rem;margin:1.25rem 0;border-radius:4px;">
+  <p style="margin:0 0 0.25rem;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.08em;color:#6B6B6B;">Before</p>
+  <p style="margin:0 0 0.75rem;font-style:italic;color:#6B6B6B;">&ldquo;Professional dog training services&rdquo;</p>
+  <p style="margin:0 0 0.25rem;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.08em;color:#7A5230;">After</p>
+  <p style="margin:0 0 0.5rem;font-weight:600;color:#1E1A16;">&ldquo;Reactive-dog training for owners who dread the walk&rdquo;</p>
+  <p style="margin:0;font-size:0.95rem;color:#4A4339;">It speaks straight to the person who crosses the street to avoid other dogs, not to a category.</p>
+</div>
+
+<p>Notice what changes. None of the rewrites are clever. They are clear. Each names what you do and who it is for, in a line a stranger understands at a glance.</p>
+
+<h2>How to write one that passes the Headline Test</h2>
+
+<p>You need a plain structure and a willingness to be specific. A reliable starting point is this:</p>
+
+<ol>
+<li>What you do</li>
+<li>Who it is for</li>
+<li>What sets you apart, the specific result or detail</li>
+</ol>
+
+<p>Lead with the customer and the outcome, not your name or a slogan. Save the personality and the clever turns of phrase for the line underneath, where they can do their work after the headline has earned the read.</p>
+
+<p>Then run it past the same questions:</p>
+
+<ol>
+<li>Could a competitor use your whole opening unchanged</li>
+<li>Would the right client feel it is for them</li>
+<li>Does it provide an outcome</li>
+</ol>
+
+<p>If you can answer yes across the board, your opening is working for you instead of taking up the best space on your site.</p>
+
+<h2>Start with your headline</h2>
+
+<p>Your headline is the highest-leverage thing you can fix on your website. It costs nothing but a careful rewrite, and it changes how every visitor judges the seconds that follow. That is your opening.</p>
+
+<p>If you want a second set of eyes on yours, that is exactly the kind of thing I do. Book a free call and we will pressure-test the first line of your site together and figure out what it should really say.</p>`,
+  },
+  {
     slug: "email-list-most-valuable-asset",
     image: "/images/mailbox-farm-emailblog.jpg",
     tag: "Digital Marketing",
