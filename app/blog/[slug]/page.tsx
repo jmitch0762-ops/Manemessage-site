@@ -4,6 +4,11 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
+const MONTH_NAMES = [
+  "January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December",
+];
+
 // Generate static paths for all blog posts
 export function generateStaticParams() {
   return blogPostsFull.map((post) => ({ slug: post.slug }));
@@ -34,11 +39,10 @@ export default function BlogPostPage({
     notFound();
   }
 
-  // Format date nicely
-  const formattedDate = new Date(post.date + "T12:00:00").toLocaleDateString(
-    "en-US",
-    { year: "numeric", month: "long", day: "numeric" }
-  );
+  // Format date nicely — manual formatting avoids ICU/locale drift between
+  // server and browser that toLocaleDateString is subject to.
+  const [year, month, day] = post.date.split("-").map(Number);
+  const formattedDate = `${MONTH_NAMES[month - 1]} ${day}, ${year}`;
 
   return (
     <>
@@ -63,7 +67,7 @@ export default function BlogPostPage({
           </div>
 
           {/* Title */}
-          <h1 className="font-heading font-extrabold text-bark-800 mb-4 text-3xl md:text-4xl lg:text-[2.75rem] leading-[1.15]">
+          <h1 className="font-heading font-extrabold text-bark-800 mb-4 text-2xl md:text-3xl lg:text-4xl leading-[1.15]">
             {post.title}
           </h1>
 
