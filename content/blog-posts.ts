@@ -11,6 +11,7 @@
 export interface BlogPost {
   slug: string;
   image: string;
+  heroImage?: string;
   tag: string;
   title: string;
   excerpt: string;
@@ -23,6 +24,7 @@ export const blogPostsFull: BlogPost[] = [
   {
     slug: "content-strategy-that-converts",
     image: "/images/build-content-strategy-that-converts-overlay.png",
+    heroImage: "/images/content-strategy-converts-header.jpg",
     tag: "Content Strategy",
     title: "How Equine and Pet Businesses Can Build a Content Strategy That Actually Converts",
     excerpt: "Likes and follows feel like progress, but they do not pay the bills. Here is how to build a content strategy that turns readers into paying clients, built backward from the sale.",

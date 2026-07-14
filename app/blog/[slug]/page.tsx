@@ -80,6 +80,17 @@ export default function BlogPostPage({
             <span>{post.readTime}</span>
           </div>
 
+          {/* Hero image */}
+          {post.heroImage && (
+            <div className="aspect-video relative overflow-hidden rounded-sm mb-10">
+              <img
+                src={post.heroImage}
+                alt={post.title}
+                className="absolute inset-0 w-full h-full object-cover"
+              />
+            </div>
+          )}
+
           {/* Article body */}
           <div
             className="prose-mane"
