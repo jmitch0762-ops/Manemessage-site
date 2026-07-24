@@ -168,9 +168,7 @@ export const blogPostsFull: BlogPost[] = [
 
 <p>Make sure that when your next client asks, yours is the name that comes up.</p>
 
-<p style="font-size: 0.9rem; color: #6B6B6B; font-style: italic;">Not sure how your website reads to a first-time visitor, or to an AI? My free Website Copy Audit Checklist walks you through the same fundamentals the AI is weighing, one page at a time. <a href="/#lead-magnet">Grab it on the homepage.</a></p>
-
-<p><em>Ready to become the business that gets recommended? <a href="https://calendly.com/jmitch0762/30min">Book a free 30-minute discovery call</a>, and we will make sure your barn, clinic, or kennel is the name that comes up.</em></p>`,
+<p style="font-size: 0.9rem; color: #6B6B6B; font-style: italic;">Not sure how your website reads to a first-time visitor, or to an AI? My free Website Copy Audit Checklist walks you through the same fundamentals the AI is weighing, one page at a time. <a href="/#lead-magnet">Grab it on the homepage.</a></p>`,
   },
   {
     slug: "content-strategy-that-converts",
