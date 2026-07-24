@@ -22,6 +22,157 @@ export interface BlogPost {
 }
 export const blogPostsFull: BlogPost[] = [
   {
+    slug: "will-ai-recommend-your-business",
+    image: "/images/ai-search-post-overlay.jpg",
+    heroImage: "/images/ai-search-post-hero.jpg",
+    tag: "SEO",
+    title: "We Used to Google It. Now We Ask ChatGPT.",
+    excerpt: "Your clients are starting to ask ChatGPT and Google's AI for a recommendation instead of scrolling search results. Here is how to become the barn, clinic, or kennel the AI actually names.",
+    date: "2026-07-23",
+    readTime: "7 min read",
+    metaDescription: "People now ask AI tools for local recommendations. Learn how equine, pet, and vet businesses show up in AI search and get recommended, not skipped.",
+    content: `<p class="text-lg"><em>How your barn, clinic, or kennel shows up when a potential client asks AI instead of Google.</em></p>
+
+<p>Here&rsquo;s the scenario.</p>
+
+<p>A woman moving just two towns over needs to find full-board for her two horses.</p>
+
+<p>A year ago she would have opened Google, typed &ldquo;horse boarding near me,&rdquo; and started clicking through websites.</p>
+
+<p>Now, she opens ChatGPT and asks, &ldquo;What is the best full-care boarding barn near me, and which ones are good with older horses?&rdquo; She reads the answer. She calls the two barns listed.</p>
+
+<p>Yours was not one of them.</p>
+
+<p>That&rsquo;s where we are. Today.</p>
+
+<p>AI is already changing how people find local businesses, including the equine, pet, and veterinary businesses I work with every day. The search box you have spent years trying to rank in is now replaced by a trusted answer, and that answer only mentions a handful of names.</p>
+
+<p>Here is the uncomfortable part. Ranking well on Google and getting recommended by AI are now two different strategies. Your website can sit on the first page of Google and never get named once by ChatGPT or Google&rsquo;s own AI Overviews, the summary that now sits at the top of so many searches.</p>
+
+<p>That gap is real, and it is widening.</p>
+
+<blockquote style="border-left: 4px solid #A3826C; margin: 2rem 0; padding: 0.5rem 0 0.5rem 1.25rem; font-size: 1.25rem; font-weight: 700; color: #7A5230;">Ranking number one on Google does not guarantee you are the name AI gives. Those are two different strategies now.</blockquote>
+
+<p>The good news, and there is good news, is that almost none of your competitors have noticed it yet.</p>
+
+<p>Most large companies already have someone working on this. Most small businesses have not started. For once, being small and paying attention is the advantage, not the handicap.</p>
+
+<p>A boarding barn owner told me recently that a new client found her by asking AI for &ldquo;a barn near me that actually communicates with owners.&rdquo; Her barn came up for one reason: her website and her Facebook page show exactly that, with regular photo updates, notes on how each horse is doing, and a clear description of how she keeps owners informed. She had never once thought of any of that as marketing. It was. The words on her website did the recommending for her, while she was out mucking stalls.</p>
+
+<p>AI isn&rsquo;t just matching keywords anymore. <em>It&rsquo;s interpreting intent.</em></p>
+
+<p>If your barn truly excels at communication but your website never mentions owner updates, your client portal, lesson reports, newsletters, text alerts, or your philosophy of keeping owners informed, AI has very little evidence to support recommending you for that specific request.</p>
+
+<p>In fact, AI will look beyond your website for signals that suggest strong communication, such as:</p>
+
+<ul>
+  <li>Regular Facebook or Instagram updates</li>
+  <li>A website that explains the boarding program in detail</li>
+  <li>Staff introductions and bios</li>
+  <li>Educational blog posts or newsletters</li>
+  <li>FAQs that answer common owner questions</li>
+</ul>
+
+<h2>Three Questions AI Asks Before It Recommends You</h2>
+
+<p>When someone asks AI (whichever tool they prefer) for a local recommendation, it is not flipping a coin. Behind the scenes it is quietly answering three questions about you before it decides whether you come up in the list.</p>
+
+<ol>
+  <li>Can I find you, anywhere?</li>
+  <li>Do I understand quickly what you do, and who you do it for?</li>
+  <li>Can I trust that you are real, current, and any good?</li>
+</ol>
+
+<p>Get all three right and you become the obvious business for AI to name. Miss one and you disappear from the answer, no matter how good you really are. Let us take them in order.</p>
+
+<h2>Question One: Can AI Find You? (Tip: AI reads your Google profile before it reads your homepage)</h2>
+
+<p>AI tools do not invent recommendations out of thin air. They pull from sources they already trust: your Google Business Profile, your website, and the reputable directories in your field. If you are thin or missing in those places, you are invisible before the conversation even starts. Once again, content is King. Some things never change.</p>
+
+<p>This is where a lot of genuinely good small businesses lose out.</p>
+
+<p>I have seen well-rated veterinary clinics whose Google Business Profile lists a phone number and almost nothing else. No services, no hours, no photos, no description. To a busy potential customer, that looks careless, and can be frustrating if they really wanted to contact you. To AI, it looks like a business that likely does not exist anymore.</p>
+
+<p>There is a new wrinkle worth noting.</p>
+
+<p>Google has started <strong>auto-generating</strong> parts of your profile, including your list of services and sometimes your description, using its own AI. That means there may already be words on your profile <em>that you did not write</em> and have never even read.</p>
+
+<p>Log in and check them.</p>
+
+<p>A feline-only, fear-free clinic does not want Google to guess that it offers emergency surgery it has never actually performed.</p>
+
+<p>The first move here is simple: claim and fully complete your Google Business Profile. Every service, real hours, current photos, and a description in your own words. It is the single highest-return hour you can spend on your marketing this month.</p>
+
+<h2>Question Two: Can AI Understand What You Do? (Tip: be specific and clear)</h2>
+
+<p>Being found is not enough. AI has to understand you well enough to match you to a specific request. And specific is exactly how people talk to these tools.</p>
+
+<p>Nobody asks an AI for &ldquo;a groomer.&rdquo; They ask for &ldquo;a patient dog groomer near me who is good with anxious rescue dogs.&rdquo;</p>
+
+<p>Nobody asks for &ldquo;a vet.&rdquo; They ask for &ldquo;a cat-friendly vet that does low-stress visits.&rdquo;</p>
+
+<p>Nobody asks for &ldquo;boarding.&rdquo; They ask for &ldquo;full-care horse boarding with daily turnout and someone on the property overnight.&rdquo;</p>
+
+<p>Being specific is now more important than ever. If your website says &ldquo;we provide quality care in a friendly environment,&rdquo; AI has no context. That sentence could describe ten thousand businesses. It matches no specific question, so what happens? It wins none of them, and you fall off the radar.</p>
+
+<p>Now picture a dog grooming webpage that says, plainly, &ldquo;We specialize in nervous senior dogs. Quiet, appointment-only salon, no cage dryers, one dog at a time.&rdquo; That page tells a person and AI exactly who it is for. So, when someone asks for a gentle groomer for an anxious dog, that is the business the answer names.</p>
+
+<p><strong>The businesses that win in AI search are the ones that describe clearly what they actually do, for whom, and in the language their own clients use.</strong></p>
+
+<h2>Question Three: Can AI Trust You? (Tip: recent beats impressive)</h2>
+
+<p>This third question is about trust. AI does not want to recommend a business that closed last year or has a single angry review from 2021. So, it leans on the signals that suggest you are real, active, and <em>well regarded</em>.</p>
+
+<p>Reviews matter here, but maybe not the way you assume.</p>
+
+<p>It is no longer just about the total count. Recency and substance carry more weight than they used to.</p>
+
+<p>A boarding barn with forty reviews from three years ago can look staler than a smaller barn with a steady, low-volume trickle of recent, specific ones. Ten reviews that mention desirable things like &ldquo;daily turnout&rdquo; and &ldquo;she texts me photos of my horse&rdquo; tell AI far more than fifty reviews that just say &ldquo;great place.&rdquo;</p>
+
+<p>Consistency matters too. If your barn is &ldquo;Willow Creek Stables&rdquo; on Google, &ldquo;Willow Creek Equestrian&rdquo; on Facebook, and &ldquo;Willow Creek Farm&rdquo; on your own website, you are making AI work to confirm you are one business. Another way to fall off the AI recommendation list.</p>
+
+<p>Ask every happy client for a Google review, and make sure your name, address, and phone number read identically everywhere they appear.</p>
+
+<h2>A Word Before You Panic About AI</h2>
+
+<p>I write plenty about not chasing every shiny new AI tool and letting the hype set your marketing priorities, and I stand by every word of it. The reality is, most of what matters for your business has not changed:</p>
+
+<ul>
+  <li>Clear messaging</li>
+  <li>A website that converts</li>
+  <li>An email list you use and communicate to</li>
+</ul>
+
+<p>AI search is the one place where the ground really has shifted, and doing nothing carries a cost.</p>
+
+<p>But look closely at what gets you recommended with AI. A complete profile. Clear, specific writing. Real reviews. Consistent details.</p>
+
+<p>None of that is a gimmick or even unique to AI, and all of it makes you stronger with the real visitors you interact with online. These are the fundamentals. You are finally getting them right, and AI is simply rewarding you for it.</p>
+
+<h2>Where to Start This Week</h2>
+
+<p>You do not need a strategy deck for this. You need about two hours and this short list.</p>
+
+<ol>
+  <li>Claim and fully complete your <strong>Google Business Profile</strong> and read anything Google auto-generated to be sure it is accurate.</li>
+  <li>Rewrite your <strong>main service page</strong> to describe exactly what you do and who it is for, in your clients&rsquo; own words.</li>
+  <li>Ask three recent, happy clients for a <strong>specific review</strong> this week, then keep asking from here on.</li>
+  <li>Make your <strong>business name, address, and phone number identical</strong> across your website, Google, and every social profile.</li>
+</ol>
+
+<p>Do those four things and you will be ahead of nearly everyone in your field, because almost none of them have started.</p>
+
+<p>The businesses that build this now are the ones AI will be recommending a year from now, while their competitors are still wondering why their bookings are not filling up, or why they suddenly have a few empty stalls.</p>
+
+<p>The search box is not the front door anymore. More and more, the answer is.</p>
+
+<p>Make sure that when your next client asks, yours is the name that comes up.</p>
+
+<p style="font-size: 0.9rem; color: #6B6B6B; font-style: italic;">Not sure how your website reads to a first-time visitor, or to an AI? My free Website Copy Audit Checklist walks you through the same fundamentals the AI is weighing, one page at a time. <a href="/#lead-magnet">Grab it on the homepage.</a></p>
+
+<p><em>Ready to become the business that gets recommended? <a href="https://calendly.com/jmitch0762/30min">Book a free 30-minute discovery call</a>, and we will make sure your barn, clinic, or kennel is the name that comes up.</em></p>`,
+  },
+  {
     slug: "content-strategy-that-converts",
     image: "/images/build-content-strategy-that-converts-overlay.png",
     heroImage: "/images/content-strategy-converts-header.jpg",
