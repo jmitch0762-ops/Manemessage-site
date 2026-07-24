@@ -116,7 +116,7 @@ export default function HomePage() {
       </section>
 
       {/* ============ EMAIL SIGNUP ============ */}
-      <section className="py-20 md:py-28 bg-cream-200">
+      <section id="lead-magnet" className="scroll-mt-24 py-20 md:py-28 bg-cream-200">
         <div className="max-w-[700px] mx-auto px-[4vw] text-center">
           <div className="section-label">Free Audit Checklist</div>
           <h2 className="font-heading font-bold text-saddle-500 text-2xl md:text-3xl leading-tight mb-4">
