@@ -75,8 +75,7 @@ export const blogPostsFull: BlogPost[] = [
 <p>Alanwood Farm also offers guided trail rides, riverside camping, a cross-country course, equine agility, miles of hiking trails, bonfires, river fishing, and a small menagerie of farm animals. It also markets itself for corporate retreats, team-building, and even school science labs. Weddings and music festivals are also on the list, but as one line item on a long menu, not the whole business.</p>
 
 <p>That is the mindset shift. Alanwood is not a boarding farm that occasionally hosts an event.</p>
-<blockquote style="border-left: 4px solid #A3826C; margin: 2rem 0; padding: 0.5rem 0 0.5rem 1.25rem; font-size: 1.25rem; font-weight: 700; color: #7A5230;">It is land marketed as a horse farm, a nature preserve, and an outdoor-recreation destination at once.</blockquote>
-<p>Most equestrian properties have some version of that potential and never name it.</p>
+<blockquote style="border-left: 4px solid #A3826C; margin: 2rem 0; padding: 0.5rem 0 0.5rem 1.25rem; font-size: 1.25rem; font-weight: 700; color: #7A5230;">It is land marketed as a horse farm, a nature preserve, and an outdoor-recreation destination at once, and most equestrian properties have some version of that potential and never name it.</blockquote>
 
 <h2>Start Where You Already Speak the Language</h2>
 
