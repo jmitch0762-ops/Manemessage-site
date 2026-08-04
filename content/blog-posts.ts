@@ -22,6 +22,137 @@ export interface BlogPost {
 }
 export const blogPostsFull: BlogPost[] = [
   {
+    slug: "market-equestrian-property-event-venue",
+    image: "/images/market-equestrian-property-venue-overlay.jpg",
+    heroImage: "/images/market-equestrian-property-venue.jpg",
+    tag: "Equestrian Life",
+    title: "Beyond Boarding: How to Market Your Equestrian Property as an Event Venue",
+    excerpt: "Boarding income is capped by the number of stalls you have. Your land is not. Here is how to market your equestrian property for the many events it can host, from clinics and trail rides to corporate days and weddings.",
+    date: "2026-08-04",
+    readTime: "8 min read",
+    metaDescription: "How to market your equestrian property as an event venue. A deep dive on diversifying farm income through clinics, schooling shows, trail rides, camping, corporate events, and weddings.",
+    content: `<p class="text-lg"><em>Your stalls may have a ceiling. Your land does not.</em></p>
+
+<p>If you own an equestrian property, you already know the math that keeps you up at night.</p>
+
+<ul>
+  <li>You have a fixed number of stalls.</li>
+  <li>Each one brings in a fixed board check.</li>
+  <li>Hay goes up, grain goes up.</li>
+  <li>The tractor needs a part that costs more than the tractor did.</li>
+</ul>
+
+<p>The one thing you cannot do is add more stalls to the barn you already have. <strong>Boarding income has a ceiling,</strong> and most facility owners hit it within their first few years. If you look at this as truly a business, diversification that leverages your assets becomes a priority.</p>
+
+<p>I spent two decades helping run a family-owned Dutch Warmblood breeding farm, so I am not romanticizing this. I know what it costs to keep the lights on and the water troughs from freezing. And I know that many of the properties struggling to break even on board are sitting on an asset they are barely using: the property itself.</p>
+
+<p>Your indoor arena sits empty five nights a week. Your back field is gorgeous in September. Those trails you ride alone, that view of the pasture at golden hour, all of it is worth money, and not only to the wedding market everyone thinks of first.</p>
+
+<p>This is not a &ldquo;rent your barn for weddings and get rich&rdquo; post. Those are written by people who have never dealt with a liability waiver or a bride&rsquo;s mother in muck boots. This is the honest version.</p>
+
+<h2>Why Boarding Alone Will Always Feel Tight</h2>
+
+<p>Boarding is a volume business with thin margins, labor intensive (24/7 and holidays!), and enormous liability, run on land that is expensive to own and maintain. You are essentially renting space and labor at a price the local market caps for you, whether or not your costs cooperate.</p>
+
+<p>Event revenue works differently. Look at what a single asset, your land, can earn once you stop thinking of it as only a barn:</p>
+
+<ul>
+  <li>A schooling show can bring in more on one Saturday than a stall does in a month.</li>
+  <li>A clinic with a sought-after clinician fills your ring at a premium and costs you almost nothing but the arena and the coffee.</li>
+  <li>A season of guided trail rides and weekend camping turns your back acreage into recurring income.</li>
+  <li>A corporate team-building day can be booked at a rate no boarder would ever pay.</li>
+  <li>A wedding, at the high end, can bring a single check larger than several months of board combined.</li>
+</ul>
+
+<p>You are monetizing the same fixed asset you already pay for, without adding one more mouth to feed.</p>
+
+<p>The point is not to stop boarding. For most facilities, board is the stable base that keeps the lights on. <em>The point is that events are how you finally get ahead instead of just getting by, and they use what you already have.</em></p>
+
+<h2>One Property, Many Revenue Streams</h2>
+
+<p>The clearest way to see it is a property already doing it. <a href="https://www.facebook.com/AlanwoodFarm">Alanwood Farm</a> in Broad Run, Virginia, a historic 240-acre property, offers boarding and training, but does not stop there.</p>
+
+<p>Alanwood Farm also offers guided trail rides, riverside camping, a cross-country course, equine agility, miles of hiking trails, bonfires, river fishing, and a small menagerie of farm animals. It also markets itself for corporate retreats, team-building, and even school science labs. Weddings and music festivals are also on the list, but as one line item on a long menu, not the whole business.</p>
+
+<p>That is the mindset shift. Alanwood is not a boarding farm that occasionally hosts an event. It is land marketed as a horse farm, a nature preserve, and an outdoor-recreation destination at once, and most equestrian properties have some version of that potential and never name it.</p>
+
+<h2>Start Where You Already Speak the Language</h2>
+
+<p>The lowest-risk events to market are the ones aimed at people exactly like you: horse people. You already speak their language, you already know where they gather, you are likely already part of their community, and your property is already built for them.</p>
+
+<h3>Clinics, Schooling Shows, and Hunter Paces</h3>
+
+<p>Hosting a clinic with a respected clinician, a schooling show, a dressage schooling day, or a hunter pace uses your facility for its actual purpose and markets almost entirely through channels you already have.</p>
+
+<p>The audience is reachable through discipline networks and local clubs: the regional dressage GMO, the local hunter/jumper association, USEF, USDF, and USHJA member groups, breed clubs, and the Facebook groups where every rider in your area already argues about footing and trailer parking.</p>
+
+<p>A clinician with a following becomes your marketing department, because their name fills your ring. A well-run schooling show gets talked about, and riders will travel for good footing, a comfortable layout, and fair judging. This is where you build a reputation as a facility that runs a tight, welcoming event, and that reputation is the foundation everything else stands on.</p>
+
+<h3>Trail Rides, Camping, and Outdoor Recreation</h3>
+
+<p>This is the category most equestrian owners overlook, and it is often the easiest to start. If you have trails, woods, water, or open acreage, you have a product that reaches well beyond competitive riders.</p>
+
+<p>Guided trail rides, overnight camping, cross-country and agility schooling, hiking, and even school nature labs all turn your land into revenue with low overhead and low liability. Alanwood built much of its identity here, marketing to nature lovers and families, not only to equestrians.</p>
+
+<p>The marketing reaches a wider audience than your discipline networks: local family and outdoor-recreation groups, homeschool and 4-H networks, county tourism and &ldquo;things to do near me&rdquo; listings, and Instagram, where one photo of a bonfire by the creek does the selling for you.</p>
+
+<h3>Photography and Content Shoots</h3>
+
+<p>Long before you are ready for a full event business, your property can earn money from photographers. Equine photographers need locations for client sessions. Portrait and family photographers want that golden-hour pasture backdrop. Senior photos, engagement shoots, and brand catalog shoots all pay for access to a picturesque farm.</p>
+
+<p>This is low-lift, low-liability revenue that also produces a steady stream of gorgeous images you can reuse across your other marketing.</p>
+
+<h2>The Higher-Lift Options: Corporate Events and Weddings</h2>
+
+<p>Corporate retreats, team-building days, and weddings are where the biggest checks live, and where the work and the risk climb steeply. Worth pursuing, but only with your eyes open.</p>
+
+<p>Here is where most equestrian owners go wrong. They assume that because they know horses, they know how to host a wedding or a corporate group. They do not. These are different businesses with different customers, people who are not horse people and do not care that your barn is the highlight of the property to you.</p>
+
+<p>The buyers are not searching USEF directories or your dressage group&rsquo;s Facebook page. A bride and her mother are on The Knot, WeddingWire, and Pinterest, searching &ldquo;rustic barn wedding venue near me.&rdquo; A corporate planner is looking for an offsite near the city. If you are not visible where they already look, you do not exist to them. Each is a separate marketing channel with its own listings and vocabulary.</p>
+
+<p>And the referral network is everything. The wedding planners, photographers, and caterers who work the barn circuit send each other business constantly. Getting to know two or three of them, especially photographers who might already shoot at your property, can do more for your bookings than any ad. They have the audience; you have the venue.</p>
+
+<p>One more hard truth. Weddings and corporate events mean strangers, alcohol, and high emotion on a property full of large animals, fencing, and equipment. <strong>The insurance conversation is not optional, and it is not the same policy that covers your boarders.</strong> Talk to an agent who understands both equine operations and event liability before you book a single date, build waivers and clear rules into every contract, and price all that in. The farm owners who lose money on events are the ones who priced the venue and forgot to price the risk.</p>
+
+<h2>An Honest Look at the Opportunities</h2>
+
+<p>Be honest about what your property actually is. The fastest way to lose money and reputation is to market yourself as something you are not.</p>
+
+<p>Different events demand different things.</p>
+
+<ul>
+  <li>A schooling show or a trail-ride day needs safe footing, adequate parking, and a restroom.</li>
+  <li>A wedding needs all of that plus a level of polish, accessibility, and contingency planning most working barns do not have. If your driveway becomes a mud pit in a light rain, you are not a wedding venue yet.</li>
+  <li>If your only bathroom is a portable one behind the manure pile, you are not hosting a corporate retreat this year.</li>
+</ul>
+
+<p>This is not discouragement. It is reality leading to a strategy. <strong>Match the event to the property you actually have,</strong> start where the gap is smallest, and reinvest the revenue into closing the gaps for bigger or more diverse events later.</p>
+
+<p>A farm that nails ten schooling shows and a summer of trail rides earns the polish, and the cash, to eventually chase other event offerings, like weddings. One that skips straight to weddings on an unready property earns one-star reviews. Start small and smart.</p>
+
+<h2>Your Boarding Website Cannot Serve Two Audiences</h2>
+
+<p>This is the part I care about most, because it is where the marketing becomes key and audience clarity matters. A boarding page and an events page speak to completely different audiences, and trying to serve both on one cluttered page serves neither.</p>
+
+<p>Your boarders want turnout schedules, feed programs, and stall sizes. A bride, a corporate planner, or a family booking a trail ride does not care about any of that, and a page that leads with it tells them they are in the wrong place.</p>
+
+<p>Event buyers want to see the space, know what is included, get a sense of price, and know how to check a date and book. They want a clear path that speaks to their event, not your boarding practices.</p>
+
+<p>At minimum, that means a <strong>dedicated events page</strong> with its own gallery, its own copy for the non-horse buyer, and one clear next step, whether that is &ldquo;check available dates&rdquo; or &ldquo;request the venue guide.&rdquo; A property serious about events may need a separate microsite entirely, so the events brand is not buried under the boarding business.</p>
+
+<h2>Where to Start</h2>
+
+<p>Start with the event closest to what you already do well and that your property naturally supports.</p>
+
+<p>If you have good footing and a ring, host one clinic or schooling show this season and run it smoothly. If you have trails and open land, offer a guided trail ride or a weekend of camping. If you have a photogenic property, reach out to two local photographers and offer them a location to shoot photos. Use the income, the photos, and the lessons to decide what to reach for next. Each rung on the ladder funds the next and teaches you what your property can actually handle.</p>
+
+<p>Alanwood did not become a horse farm, nature preserve, and event venue overnight. It named everything the land could do, then went looking for the people who wanted each of those things. Your land, your arena, and that view of the pasture are already costing you money every single day. The only question is whether they are also earning any.</p>
+
+<p>Hopefully this post has opened your eyes and given you some ideas to pursue. With the right marketing, aimed at the right audience, through the right channels, this can be the difference between a farm that scrapes by and one that finally gets ahead.</p>
+
+<p style="font-size: 0.9rem; color: #6B6B6B; font-style: italic;">Not ready to talk yet? <a href="/#lead-magnet">Grab the free Website Audit Checklist</a> on the homepage: fifteen specific things every equine, pet, and veterinary website should be doing.</p>`,
+  },
+  {
     slug: "will-ai-recommend-your-business",
     image: "/images/ai-search-post-overlay.jpg",
     heroImage: "/images/ai-search-post-hero.jpg",
