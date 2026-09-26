@@ -62,35 +62,6 @@ export default function BlogPage() {
               );
             })}
           </div>
-
-          {/* ============ PUBLISHED ELSEWHERE ============ */}
-          <div className="mt-16 pt-12 border-t border-bark-100">
-            <div className="section-label">Published Elsewhere</div>
-            <h3 className="font-heading font-bold text-bark-800 text-xl md:text-2xl mb-6">
-              Featured industry writing
-            </h3>
-            <a
-              href="https://heyzine.com/flip-book/646b241d3a.html"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group block max-w-2xl bg-cream-200 border border-saddle-500/10 rounded-sm p-6 md:p-8 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
-            >
-              <div className="text-[0.65rem] font-semibold tracking-[0.12em] uppercase text-saddle-500 mb-2">
-                Equine Business Magazine, September 2026
-              </div>
-              <h4 className="font-heading font-semibold text-bark-700 text-lg leading-snug mb-2 group-hover:text-saddle-500 transition-colors">
-                How to Get Testimonials That Actually Win You Business
-              </h4>
-              <p className="text-sm text-bark-300 leading-relaxed">
-                A feature on turning vague praise into client-winning testimonials, using a
-                simple Before / What Changed / After framework and five questions that draw
-                out real client stories.
-              </p>
-              <span className="inline-block mt-3 text-sm font-medium text-saddle-500 group-hover:text-saddle-400">
-                Read the article →
-              </span>
-            </a>
-          </div>
         </div>
       </section>
     </>
