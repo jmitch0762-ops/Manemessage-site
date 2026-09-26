@@ -68,6 +68,29 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* ============ AS FEATURED IN ============ */}
+      <section className="bg-cream-200 border-y border-saddle-500/10 py-10">
+        <div className="max-w-[1500px] mx-auto px-[4vw]">
+          <div className="flex flex-col items-center text-center gap-3">
+            <span className="text-xs font-semibold uppercase tracking-[0.2em] text-saddle-500">
+              As Featured In
+            </span>
+            <a
+              href="https://heyzine.com/flip-book/646b241d3a.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-heading font-bold text-bark-800 text-xl md:text-2xl hover:text-saddle-500 transition-colors"
+            >
+              Equine Business Magazine
+            </a>
+            <p className="text-sm text-bark-300 max-w-xl">
+              &ldquo;How to Get Testimonials That Actually Win You Business&rdquo; in the
+              September 2026 issue.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* ============ VALUE PROPS ============ */}
       <section className="py-20 md:py-28">
         <div className="max-w-[1500px] mx-auto px-[4vw]">
