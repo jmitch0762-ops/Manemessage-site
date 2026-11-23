@@ -22,6 +22,115 @@ export interface BlogPost {
 }
 export const blogPostsFull: BlogPost[] = [
   {
+    slug: "local-seo-equine-pet-vet",
+    image: "/images/local-seo-card-with-headline.jpg",
+    tag: "SEO",
+    title: "Local SEO for Equine and Pet Businesses: The Setup That Actually Drives Business",
+    excerpt: "The highest-return hour in your marketing this month is not on your website. It is on the Google profile that now decides whether local clients ever find you.",
+    date: "2026-11-23",
+    readTime: "7 min read",
+    metaDescription: "Local SEO for equine, pet, and veterinary businesses. The three Google Business Profile moves that actually drive calls and bookings, in plain language.",
+    content: `<p class="text-lg"><em>The highest-return move you can make in your marketing moving into 2027 is not on your website. It is on the profile Google is writing or rewriting for you.</em></p>
+
+<p>You know you are supposed to do local SEO to grow your business. So you open your website, stare at it, feel vaguely guilty, and close the tab. Nothing changes.</p>
+
+<p>Here is the good news. For an equine or pet industry business that serves a local area, the work that actually moves the needle is smaller and more concrete than the internet makes it sound. And the reality is that most of it is free, and you can start it this afternoon.</p>
+
+<p>Here's the truth. The thing that gets a new boarder to call, a worried pet owner to book your clinic, or a first-time client to try your grooming salon is usually not your website at all.</p>
+
+<p>It is your <strong>Google Business Profile</strong>: the panel with your name, hours, reviews, and photos that shows up when someone searches. And here's the scary thing, Google is now writing parts of that profile for you, whether or not you approve the wording.</p>
+
+<figure style="margin: 2rem 0; text-align: center;">
+  <img src="/images/local-seo-google-business-profile-example.jpg" alt="A Google Business Profile panel for a pet groomer, showing the rating, hours, services, and reviews that Google pulls into local and AI results" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <figcaption style="font-size: 0.9rem; color: #6B6B6B; margin-top: 0.75rem; font-style: italic;">A Google Business Profile panel: the hours, services, reviews, and photos Google now pulls into local and AI results.</figcaption>
+</figure>
+
+<p>That changes what local SEO even means.</p>
+
+<h2>What Actually Changed (Tip: Your Profile Is the New Homepage)</h2>
+
+<p>Two shifts happened over the past year, and together they rewrote the local playbook.</p>
+
+<ol>
+  <li>AI Overviews moved into local search. When someone searches for a service near them, Google increasingly answers with an AI summary at the top of the page, and it often tucks the local results right inside that summary. A recent analysis put AI Overviews on 68% of local searches, well ahead of the 39% that still showed the traditional map pack (a 2026 Whitespark study reported by Search Engine Journal). What matters most to you is where those answers come from: they are built largely from <strong>Google Business Profile</strong> data. Your hours, your services, your reviews, your photos. The profile is the source document.</li>
+  <li>Beginning in early 2026, Google started auto-generating parts of that profile. Service lists and descriptions on business panels were AI-written, sometimes including services the business owner had never entered themselves.</li>
+</ol>
+
+<blockquote style="border-left: 4px solid #A3826C; margin: 2rem 0; padding: 0.5rem 0 0.5rem 1.25rem; font-size: 1.25rem; font-weight: 700; color: #7A5230;">Your Google Business Profile is no longer a listing you maintain. It is a document Google now co-writes, and if you are not watching, it will put words in your mouth.</blockquote>
+
+<p>Put those two shifts together and the takeaway is simple.</p>
+
+<p>The profile is doing the heavy lifting, and it is no longer fully under your control. So the setup below is less about ranking in the old sense and more about feeding Google accurate, specific information, then checking what it says back about you.</p>
+
+<p>Here are the three moves that matter most. Let me walk you through the setup that works now, in plain language.</p>
+
+<h2>Move One: Claim and Finish the Profile (Tip: Being Specific Beats Complete-Looking)</h2>
+
+<p>Most profiles are vague. A boarding facility lists horse boarding as a service and stops there. A small-animal clinic picks one category of focus and leaves all the services blank.</p>
+
+<p>One thing has not changed in all the time (decades now!) that I have studied SEO, and that is that Google cares about user experience, and about its users getting the best results. This is why vague profiles lose to specific ones, because specific is what both a searcher and Google's AI can match to a real query.</p>
+
+<p>To make sure you have the best Google Business Profile you can, I'd suggest you go through this work list, in order:</p>
+
+<ol>
+  <li>Claim and verify the profile if you have not. (Not sure where to start? Find your business on Google, choose the option to claim or manage it, and follow Google's verification steps. It is usually quick.) An unclaimed profile is one Google fills in entirely on its own, with no input from you.</li>
+  <li>Set your primary category precisely, then add secondary ones. Horse trainer plus dressage reads very differently to someone searching "dressage trainer near me" than a generic stable listing does.</li>
+  <li>Fill in every service, and write a real description for each. Most of your competitors leave these blank. A groomer whose listing says anxious and senior dogs handled slowly, one at a time, no cage dryers will match searches that a bare grooming listing never reaches.</li>
+  <li>Add real photos, and keep adding them. Your actual facility, your team, the horses and dogs and patients, not stock images. Just like fresh content would cause Google to reindex your site and be more likely to serve up your URL in results, fresh photos also signal that the business is active.</li>
+  <li>Make your name, address, and phone number identical <em>everywhere</em> they appear online. When your hours on Apple Maps disagree with the ones on Google, the AI's confidence in your business drops, and so does your visibility.</li>
+</ol>
+
+<p>None of this is glamorous.</p>
+
+<p>All of it is the raw material every other part of local search now pulls from, so it has to be right before anything else matters.</p>
+
+<h2>Move Two: Audit What Google's AI Is Saying About You</h2>
+
+<p>This is the new move, the one almost no small business owner is doing yet, and it is where you will find the fastest wins.</p>
+
+<p>Right now, open an incognito browser window and search your own business name. Look hard at the services and the description on your profile. Are they yours, in your words? Or did Google write them for you?</p>
+
+<p>I looked at a client's profile recently and found a service listed that they had stopped offering two years earlier. That is the risk. The AI is confident, and it is not always right.</p>
+
+<p>The fix is quick once you spot it. Google retired the old separate dashboard, so you now edit right on Search or Maps: sign in to the Google account that owns the profile, search your business name (or just "my business"), and open the editor. Correct anything Google added that is not yours, and swap its generic description for your own.</p>
+
+<p>You cannot stop Google from doing this. What you can do is give it specific, owner-written information so that there is no reason to guess, and check back often enough to catch it when it does.</p>
+
+<h2>Move Three: Keep Customer Reviews Fresh, Not Just Plentiful (Tip: Recency and Specifics Matter Most)</h2>
+
+<p>Here is the shift that surprises people most. Today, a wall of five-star reviews from three years ago does less for you than a steady trickle of recent, and very specific, ones. In September I had an article published in the <a href="https://heyzine.com/flip-book/646b241d3a.html#page/2">Equine Business Magazine</a> specifically around asking for customer reviews, if you want to read more on that topic.</p>
+
+<p>The research is consistent on this. Review volume and recency now carry more ranking weight than your star average does, and recency in particular has been turned way up. How specific each review is matters too, since that detail is exactly what AI summaries draw on.</p>
+
+<p>Your rating still matters, but mostly for whether someone chooses you once they have found you, not for whether they find you in the first place. One recent consumer survey, BrightLocal's Local Consumer Review Survey 2026, found that 74% of people specifically look for reviews written within the <em>last three months.</em></p>
+
+<p>A dormant profile reads as a business that might have closed. A boarding barn whose newest review is from 2023 looks, to a searcher and to an algorithm alike, like it may not be taking horses anymore.</p>
+
+<p>So stop treating reviews as a trophy case and start treating them as a habit:</p>
+
+<ul>
+  <li>Ask every satisfied client, every week, instead of in one big annual push. A short text with your review link after a good appointment does more than a once-a-year campaign ever will.</li>
+  <li>Respond to reviews, including the critical ones. A calm, specific reply is read by the next prospect, not just by the person who left it.</li>
+  <li>Track the date of your most recent review, not only the count. If the newest one is older than a month, treat that as your signal to go ask for a few more.</li>
+</ul>
+
+<h2>What About Your Website? (It Still Earns Its Keep)</h2>
+
+<p>None of this means your website is dead (or that you should let it die). It means its job changed. Your site now backs up your profile: the services, hours, and location on your pages should match your Google Business Profile exactly. When Google sees your website and your profile telling the same story, it trusts you more, and it is likelier to put you in front of people.</p>
+
+<p>So the website still matters. It is simply not always the front door. The profile is, and the two need to agree.</p>
+
+<h2>Where to Start</h2>
+
+<p>If you do one thing after reading this, do the incognito search mentioned above. Look at what Google is saying about your business in its own words. For most owners, that five-minute look is equal parts eye-opening and motivating, and it shows you exactly where to begin.</p>
+
+<p>Then finish your profile, write your own service descriptions, and ask three recent clients for a review this week. That is a real local SEO setup. None of it requires a bigger budget, only an hour and some attention.</p>
+
+<p><em>If you want a simple way to pressure-test the rest of your site while you are in there, the free Website Audit Checklist on my homepage walks you through it.</em></p>
+
+<p>If you would rather hand this off and know it is done right for your equine, pet, or veterinary business, <a href="https://calendly.com/jmitch0762/30min">book a discovery call</a> and we will map out your local setup together.</p>`,
+  },
+  {
     slug: "fear-free-marketing-gap-veterinary-practices",
     image: "/images/fear-free-marketing-gap-header.jpg",
     tag: "Content Strategy",
