@@ -26,7 +26,7 @@ export const blogPostsFull: BlogPost[] = [
     image: "/images/local-seo-card-with-headline.jpg",
     tag: "SEO",
     title: "Local SEO for Equine and Pet Businesses: The Setup That Actually Drives Business",
-    excerpt: "The highest-return hour in your marketing this month is not on your website. It is on the Google profile that now decides whether local clients ever find you.",
+    excerpt: "The highest-return move in your marketing right now is not on your website. It is on the Google profile that now decides whether local clients ever find you.",
     date: "2026-11-23",
     readTime: "7 min read",
     metaDescription: "Local SEO for equine, pet, and veterinary businesses. The three Google Business Profile moves that actually drive calls and bookings, in plain language.",
